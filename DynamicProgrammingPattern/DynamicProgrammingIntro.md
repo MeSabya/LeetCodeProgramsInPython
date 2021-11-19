@@ -23,4 +23,13 @@ You can also think of it as filling up a table (another form of caching).
 Going bottom-up or tabulation is a way to avoid recursion, saving the memory cost that recursion incurs when it builds up the call stack.
 
 
-
+## What is the difference between Bounded Knapsack And Unbounded Knapsack
+By far if you would have solved some problems in 0-1Knapsack and unbounded knapsack, you must have understood the theory and concept behind it.
+Code wise there are two difference observed:
+- Base condition to fulfill the dp array is different. The condition below should not be there because even if there is only one weight present
+  we can include that multiple times, so no need to consider that part.
+![image](https://user-images.githubusercontent.com/33947539/140558577-3ce6ce52-bb0f-4f00-9f8b-8371d636c898.png)
+ 
+- while including the element , we were substracting 1 element from the remaining element in case of bounded KS, but in unbounded KS we dont have to do it, as we can 
+  use an element multiple times. 
+![image](https://user-images.githubusercontent.com/33947539/140558655-73085d5d-ce41-49d0-bc1e-c388252ed661.png)
