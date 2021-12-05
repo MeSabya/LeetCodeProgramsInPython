@@ -6,3 +6,4 @@
    - https://leetcode.com/problems/search-in-rotated-sorted-array/
 4. :anchor:[search in rotated array with duplicates](https://github.com/MeSabya/LeetCodeProgramsInPython/blob/master/BinarySerach/search_rotated_with_duplicates.py)
 5. ⚓[find-minimum-in-rotated-sorted-array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/submissions/)
+6. ⚓[Rotation Count](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/submissions/)
