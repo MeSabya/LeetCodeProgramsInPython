@@ -21,9 +21,14 @@
    1. [Binary Tree Level Order Traversal]()
    2. [Minimum Depth of a Binary Tree]()
    3. [Connect Level Order Siblings]()
-## Tree Depth First Search
-   1. [Path With Given Sequence]()
-   2. [Count Paths for a Sum]()
+## Tree Depth First Search   
+   1. [Binary Tree Path Sum (easy)]()
+   2. [All Paths for a Sum (medium)]()
+   3. [Sum of Path Numbers (medium)]()
+   4. [Path With Given Sequence (medium)]()
+   5. [Count Paths for a Sum (medium)]()
+   6. [Tree Diameter (medium)]()
+   7. [Path with Maximum Sum (hard)]()
 ## Two Heaps
    1. [Find the Median of a Number Stream]()
    2. [Next Interval]()
