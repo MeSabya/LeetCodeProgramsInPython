@@ -5,6 +5,7 @@
 3. :atom: [Minimum Subset Sum Difference (hard)]()
 4. [Count of Subset Sum (hard)]()
 5. :atom: [Target Sum (hard)]()
+6. ❗ Unbounded KS [Coin Change](https://www.educative.io/courses/grokking-dynamic-programming-patterns-for-coding-interviews/gx763A3x9Pl)
 
 #### All the above problems are same in nature and also in computation:
 1. Time and Space Complexity of all the problem is O(N * S). Where N is number of items and S is the Sum.
