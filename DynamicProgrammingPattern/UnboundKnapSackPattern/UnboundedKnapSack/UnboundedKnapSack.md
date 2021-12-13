@@ -33,3 +33,9 @@ the remaining capacity: profit[index] + dp[index][c-weight[index]]
 Finally, we have to take the maximum of the above two values:
 
     dp[index][c] = max (dp[index-1][c], profit[index] + dp[index][c-weight[index]])
+    
+## List of Unbounded KS Problems
+1. ❗ [Minimum Coin Change]()
+2. ❗[Rod Cutting]()
+3. [Number of ways Coin Change]()
+4. 
