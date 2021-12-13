@@ -40,3 +40,5 @@ Code wise there are two difference observed:
 - ***Change2 In business logic*** 
 while including the element , we were substracting 1 element from the remaining element in case of bounded KS, but in unbounded KS we dont have to do it, as we                  can use an element multiple times. 
 ![image](https://user-images.githubusercontent.com/33947539/140558655-73085d5d-ce41-49d0-bc1e-c388252ed661.png)
+
+- No change in Time and space complexity 
