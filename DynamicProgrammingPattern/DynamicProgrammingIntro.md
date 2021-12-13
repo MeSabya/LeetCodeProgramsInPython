@@ -41,5 +41,5 @@ Code wise there are two difference observed:
 while including the element , we were substracting 1 element from the remaining element in case of bounded KS, but in unbounded KS we dont have to do it, as we                  can use an element multiple times. 
 ![image](https://user-images.githubusercontent.com/33947539/140558655-73085d5d-ce41-49d0-bc1e-c388252ed661.png)
 
-- Since there is a change in base condition-2 , the outer for loop executes from 0..n in unbounded KS , on the otherhand the outer loop executes from 1...n in bounded KS. The above image is example of bounded KS. 
+- Since there is a change in base condition-2 , the outer for loop executes from 0..n in unbounded KS , on the otherhand the outer loop executes from 1...n in bounded KS. The above image is example of bounded KS. The outer for loop executes from 1...n from the above image.
 - No change in Time and space complexity 
