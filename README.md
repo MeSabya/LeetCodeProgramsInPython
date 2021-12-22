@@ -55,7 +55,9 @@
 ## Top ‘K’ Elements
 ## K-way Merge
 ## 0/1 Knapsack
+   1. [SubsetProblemsList](https://github.com/MeSabya/LeetCodeProgramsInPython/blob/master/DynamicProgrammingPattern/0-1KnapSackPattern/BoundedKnapsack.md#subsetsum-problem)
 ## Unbounded Knapsack
+   1. [UnboundedKSList](https://github.com/MeSabya/LeetCodeProgramsInPython/blob/master/DynamicProgrammingPattern/UnboundKnapSackPattern/UnboundedKnapSack/UnboundedKnapSack.md#list-of-unbounded-ks-problems)
 ## Fibonacci Numbers
 ## Palindromic Subsequence
 ## Longest Common Substring
