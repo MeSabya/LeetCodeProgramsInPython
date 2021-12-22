@@ -1,3 +1,5 @@
+## Array Problems
+   1. [product-of-array-except-self](https://leetcode.com/problems/product-of-array-except-self/submissions/)
 ## Stack Problems
    1. [Remove K Digits](https://leetcode.com/problems/remove-k-digits/)
    2. [Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/)
