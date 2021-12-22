@@ -15,6 +15,7 @@
    1. [Longest Substring with K Distinct Characters]()
    2. [Fruits into Baskets]()
    3. [Permutation in a String]()
+   4. [longest-substring-without-repeating-characters](https://github.com/MeSabya/LeetCodeProgramsInPython/blob/master/SlidingWindowPattern/longest-substring-without-repeating-characters.py)
 ## Two Pointers
    1. [Squaring a Sorted Array]()
    2. [Dutch National Flag Problem]()
