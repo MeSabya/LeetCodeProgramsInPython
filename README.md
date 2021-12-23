@@ -12,7 +12,7 @@
    9. [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/discuss/372675/Three-simple-approaches)
    
 ## Sliding Window
-   1. [Longest Substring with K Distinct Characters]()
+   1. [Longest Substring with K Distinct Characters](https://github.com/MeSabya/LeetCodeProgramsInPython/tree/master/SlidingWindowPattern/LongestSubstrWithMaxKDistinctChars)
    2. [Fruits into Baskets]()
    3. [Permutation in a String]()
    4. [longest-substring-without-repeating-characters](https://github.com/MeSabya/LeetCodeProgramsInPython/blob/master/SlidingWindowPattern/longest-substring-without-repeating-characters.py)
