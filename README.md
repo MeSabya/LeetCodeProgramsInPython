@@ -59,7 +59,7 @@
    5. [Count Paths for a Sum (medium)]()
    6. [Tree Diameter (medium)]()
    7. [Path with Maximum Sum (hard)]()
-   8. [Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/discuss/328322/Python3-concise-and-easy-to-understand-solution-with-recursion)
+   8. [Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/submissions/)
 ## Two Heaps
    1. [Find the Median of a Number Stream]()
    2. [Next Interval]()
