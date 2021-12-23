@@ -60,6 +60,26 @@
    6. [Tree Diameter (medium)]()
    7. [Path with Maximum Sum (hard)]()
    8. [Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/submissions/)
+   9. Validate Binary Search Tree
+   10. Same Tree
+   11. Maximum Depth of Binary Tree
+   12. Construct Binary Tree from Preorder and Inorder Traversal
+   13. Path Sum
+   14. Path Sum II
+   15. Implement Trie (Prefix Tree)
+   16. Word Search II
+   17. Invert Binary Tree
+   18. Kth Smallest Element in a BST
+   19. Lowest Common Ancestor of a Binary Search Tree
+   20. Lowest Common Ancestor of a Binary Tree
+   21. Serialize and Deserialize Binary Tree
+   22. Path Sum III
+   23. Diameter of Binary Tree
+   24. Subtree of Another Tree
+   25. Merge Two Binary Trees
+   26. Maximum Binary Tree
+   27. Maximum Width of Binary Tree
+
 ## Two Heaps
    1. [Find the Median of a Number Stream]()
    2. [Next Interval]()
