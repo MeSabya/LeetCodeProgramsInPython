@@ -1,5 +1,20 @@
-## Array Problems
-   1. [product-of-array-except-self](https://leetcode.com/problems/product-of-array-except-self/submissions/)
+## Array Problems 
+   1. First Missing Positive
+   2. Rotate Image
+   3. Spiral Matrix
+   4. Set Matrix Zeroes
+   5. Word Search
+   6. Longest Consecutive Sequence
+   7. Single Number
+   8. Contains Duplicate
+   9. [product-of-array-except-self](https://leetcode.com/problems/product-of-array-except-self/submissions/)
+   10. Missing Number
+   11. Find the Duplicate Number
+   12. Find All Duplicates in an Array
+   13. Find All Numbers Disappeared in an Array
+   14. Circular Array Loop
+   15. Shortest Unsorted Continuous Subarray
+   16. Number of Matching Subsequences
 ## Stack Problems
    1. [Remove K Digits](https://leetcode.com/problems/remove-k-digits/)
    2. [Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/)
