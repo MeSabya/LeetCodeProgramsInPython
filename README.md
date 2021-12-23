@@ -3,8 +3,8 @@
    2. Rotate Image
    3. Spiral Matrix
    4. Set Matrix Zeroes
-   5. Word Search
-   6. Longest Consecutive Sequence
+   5. [Word Search](https://leetcode.com/problems/word-search/submissions/)
+   6. [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/submissions/)
    7. Single Number
    8. Contains Duplicate
    9. [product-of-array-except-self](https://leetcode.com/problems/product-of-array-except-self/submissions/)
