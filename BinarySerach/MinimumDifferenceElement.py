@@ -1,3 +1,12 @@
+'''
+Given an array of numbers sorted in ascending order, find the element in the array that has the minimum difference with the given ‘key’.
+
+Example 1:
+
+Input: [4, 6, 10], key = 7
+Output: 6
+Explanation: The difference between the key '7' and '6' is minimum than any other number in the array
+'''
 def search_min_diff_element(arr, key):
   if key < arr[0]:
     return arr[0]
