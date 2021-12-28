@@ -103,6 +103,8 @@
 1. [house-robber](https://leetcode.com/problems/house-robber/submissions/)
 ## Palindromic Subsequence
 ## Longest Common Substring
+## Graph Problems 
+   1. [detect-cycle-in-a-directed-graph](https://www.geeksforgeeks.org/detect-cycle-in-a-directed-graph-using-bfs/?ref=rp)
 ## Topological Sort
 ## Trie Traversal
 ## Number of Island
