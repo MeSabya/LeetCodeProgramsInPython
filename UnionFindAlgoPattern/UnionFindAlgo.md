@@ -26,5 +26,12 @@ Let us work this out in on the previous example. We start out with subsets [{A},
 ## Defination:
 A Union-Find data structure also called Disjoint set data structure is to maintain a set of elements partitioned into a number of mutually disjoint(non-overlapping) subsets. So, no elements belong to more than one set.
 
+## Complexity:
+The above union() and find() are naive and the worst case time complexity is linear.  The above operations can be optimized to O(Log n) in worst case. The idea is to always attach smaller depth tree under the root of the deeper tree. This technique is called **union by rank**.
+
+![image](https://user-images.githubusercontent.com/33947539/147541568-4e0e7d2a-59f7-40c4-95a4-71ba8359194e.png)
+
+
 ### References:
-- https://www.geeksforgeeks.org/union-find/
+- https://www.geeksforgeeks.org/union-find/ 
+- [Union By rank Algorithm](https://www.geeksforgeeks.org/union-find-algorithm-set-2-union-by-rank/?ref=lbp)
