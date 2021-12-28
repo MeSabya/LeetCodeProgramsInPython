@@ -10,7 +10,7 @@ The union-find algorithm uses disjoint data sets to solve the network connectivi
 
 ✔ Union : Given two nodes u and v, to merge them together if they’re disjoint. Otherwise, return False, which means they’re connected already.
 
-✔ Find(): Given a node u, to find root node of u.
+✔ Find(): Given a node u, to find root node of u. Determine which subset a particular element is in. This can be used for determining if two elements are in the same subset.
 
 ✔ Makeset(E): Create a new subset with the element E.
 
@@ -19,10 +19,12 @@ Let us work this out in on the previous example. We start out with subsets [{A},
 ## Applications:
 1. connected component in Graph problem
 
-2. detecting cycles in graph.
+2. detecting cycles in an undirected graph.
 
 3. minimum spanning tree
 
 ## Defination:
 A Union-Find data structure also called Disjoint set data structure is to maintain a set of elements partitioned into a number of mutually disjoint(non-overlapping) subsets. So, no elements belong to more than one set.
 
+### References:
+- https://www.geeksforgeeks.org/union-find/
