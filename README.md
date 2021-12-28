@@ -104,10 +104,15 @@
 ## Palindromic Subsequence
 ## Longest Common Substring
 ## Graph Problems 
-   1. [detect-cycle-in-a-directed-graph](https://www.geeksforgeeks.org/detect-cycle-in-a-directed-graph-using-bfs/?ref=rp)
+   1. [Detect-cycle-in-a-directed-graph](https://www.geeksforgeeks.org/detect-cycle-in-a-directed-graph-using-bfs/?ref=rp)
+   2. [Max-area-of-island](https://leetcode.com/problems/max-area-of-island/discuss/242183/Python-DFS-Solution-runtime-52ms-and-memory-usage-12.6-MB)
+   3. [Number-of-provinces](https://leetcode.com/problems/number-of-provinces/discuss/303150/python-union-find-dfs-bfs)
+   4. 
 ## Topological Sort
 ## Trie Traversal
 ## Number of Island
 ## Trial & Error
 ## Union Find
+   1. [Redundant Connection](https://leetcode.com/problems/redundant-connection/discuss/107990/Python-52ms-DFS-Algorithm-with-Explanations-(compared-with-52ms-union-find))
+   2. [Number-of-operations-to-make-network-connected](https://leetcode.com/problems/number-of-operations-to-make-network-connected/discuss/1631752/Python-Union-Find-solution-with-Comments-Explanation)
 ## Unique Paths
