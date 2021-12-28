@@ -109,6 +109,8 @@
    3. [Number-of-provinces](https://leetcode.com/problems/number-of-provinces/discuss/303150/python-union-find-dfs-bfs)
    4. 
 ## Topological Sort
+   1. [course-schedule](https://leetcode.com/problems/course-schedule/)
+   2. [course-schedule-ii](https://leetcode.com/problems/course-schedule-ii/)
 ## Trie Traversal
 ## Number of Island
 ## Union Find
