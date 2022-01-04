@@ -1,3 +1,6 @@
+## References:
+   1. [30-days-interview-preparation-plan-200-best-coding-questions-and-behavioural-interviews](https://ganeshpr227.medium.com/30-days-interview-preparation-plan-200-best-coding-questions-and-behavioural-interviews-3f8fc19c2361#a4b2)
+
 ## Array Problems 
    1. First Missing Positive
    2. Rotate Image
