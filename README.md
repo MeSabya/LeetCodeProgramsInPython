@@ -18,6 +18,8 @@
    14. Circular Array Loop
    15. Shortest Unsorted Continuous Subarray
    16. Number of Matching Subsequences
+   17. [MaximumDifferenceBetweenTwoIndices](https://github.com/MeSabya/LeetCodeProgramsInPython/blob/master/ArrayProblems/MaximumDifferenceBetweenTwoIndices.md)
+   18. 
 ## Stack Problems
    1. [Remove K Digits](https://leetcode.com/problems/remove-k-digits/)
    2. [Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/)
