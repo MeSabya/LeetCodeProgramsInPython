@@ -112,6 +112,9 @@
 1. [house-robber](https://leetcode.com/problems/house-robber/submissions/)
 ## Palindromic Subsequence
 ## Longest Common Substring
+
+## Longest Increasing Subsequence 
+   2. Same Pattern as above https://leetcode.com/problems/russian-doll-envelopes/discuss/1371753/Python-Super-clean-solution-using-LIS
 ## Graph Problems 
    1. [Detect-cycle-in-a-directed-graph](https://www.geeksforgeeks.org/detect-cycle-in-a-directed-graph-using-bfs/?ref=rp)
    2. [Max-area-of-island](https://leetcode.com/problems/max-area-of-island/discuss/242183/Python-DFS-Solution-runtime-52ms-and-memory-usage-12.6-MB)
