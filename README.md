@@ -57,6 +57,23 @@
    1. 
 ## In-place Reversal of a LinkedList
 
+## Matrix Problems 
+   1. Print matrix in spiral order
+   2. Create a spiral matrix from a given array
+   3. In-place rotate matrix by 180 degrees
+   4. In-place rotate matrix by 90 degrees in a clockwise direction
+   5. Find the largest square submatrix which is surrounded by all 1’s
+   6. Find all common elements present in each row of a matrix
+   7. Find the shortest path in a maze
+   8. Find the longest possible route in a matrix
+   9. Find the path from source to destination in a matrix that satisfies given constraints
+   10. Find the total number of unique paths in a maze from source to destination
+   11. Collect maximum points in a matrix by satisfying given constraints
+   12. Count number of islands
+   13. Find the shortest path from source to destination in a matrix that satisfies given constraints
+   14. Find duplicate rows in a binary matrix
+   15. Sort Diagonal elements in the matrix
+
 ## Binary Search Trees
    1. [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/discuss/712307/Python3-sharing-two-solutions-with-thought-process-(in-order-traversal-and-recurse-left))
    2. 
