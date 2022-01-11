@@ -72,7 +72,7 @@
    12. Count number of islands
    13. Find the shortest path from source to destination in a matrix that satisfies given constraints
    14. Find duplicate rows in a binary matrix
-   15. Sort Diagonal elements in the matrix
+   15. [Sort Matrix Diagonally](https://leetcode.com/problems/sort-the-matrix-diagonally/submissions/)
 
 ## Binary Search Trees
    1. [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/discuss/712307/Python3-sharing-two-solutions-with-thought-process-(in-order-traversal-and-recurse-left))
