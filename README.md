@@ -150,3 +150,6 @@
    1. [Redundant Connection](https://leetcode.com/problems/redundant-connection/discuss/107990/Python-52ms-DFS-Algorithm-with-Explanations-(compared-with-52ms-union-find))
    2. [Number-of-operations-to-make-network-connected](https://leetcode.com/problems/number-of-operations-to-make-network-connected/discuss/1631752/Python-Union-Find-solution-with-Comments-Explanation)
 ## Unique Paths
+## Graph Problems
+   1. [rotting-oranges](https://leetcode.com/problems/rotting-oranges/discuss/551658/Python-readable-BFS-solution-beat-94)
+   2. 
