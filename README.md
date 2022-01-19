@@ -137,19 +137,15 @@
    2. Same Pattern as above https://leetcode.com/problems/russian-doll-envelopes/discuss/1371753/Python-Super-clean-solution-using-LIS
 ## Graph Problems 
    1. [Detect-cycle-in-a-directed-graph](https://www.geeksforgeeks.org/detect-cycle-in-a-directed-graph-using-bfs/?ref=rp)
-   2. [Max-area-of-island](https://leetcode.com/problems/max-area-of-island/discuss/242183/Python-DFS-Solution-runtime-52ms-and-memory-usage-12.6-MB)
+   2. [Max-area-of-island](https://leetcode.com/problems/max-area-of-island/discuss/425540/Python-3-Clean-and-easy-to-understand-dfs-approach)
    3. [Number-of-provinces](https://leetcode.com/problems/number-of-provinces/discuss/303150/python-union-find-dfs-bfs)
-   4. 
+   4. [Number of Islands](https://leetcode.com/problems/number-of-islands/)
+   5. [rotting-oranges](https://leetcode.com/problems/rotting-oranges/discuss/551658/Python-readable-BFS-solution-beat-94)
 ## Topological Sort
    1. [course-schedule](https://leetcode.com/problems/course-schedule/)
    2. [course-schedule-ii](https://leetcode.com/problems/course-schedule-ii/)
    3. [All Tasks Scheduling order]()
-## Trie Traversal
-## Number of Island
 ## Union Find
    1. [Redundant Connection](https://leetcode.com/problems/redundant-connection/discuss/107990/Python-52ms-DFS-Algorithm-with-Explanations-(compared-with-52ms-union-find))
    2. [Number-of-operations-to-make-network-connected](https://leetcode.com/problems/number-of-operations-to-make-network-connected/discuss/1631752/Python-Union-Find-solution-with-Comments-Explanation)
 ## Unique Paths
-## Graph Problems
-   1. [rotting-oranges](https://leetcode.com/problems/rotting-oranges/discuss/551658/Python-readable-BFS-solution-beat-94)
-   2. 
