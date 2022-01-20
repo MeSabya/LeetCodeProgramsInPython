@@ -62,15 +62,8 @@
    4. In-place rotate matrix by 90 degrees in a clockwise direction
    5. Find the largest square submatrix which is surrounded by all 1’s
    6. Find all common elements present in each row of a matrix
-   7. Find the shortest path in a maze
-   8. Find the longest possible route in a matrix
-   9. Find the path from source to destination in a matrix that satisfies given constraints
-   10. Find the total number of unique paths in a maze from source to destination
-   11. Collect maximum points in a matrix by satisfying given constraints
-   12. Count number of islands
-   13. Find the shortest path from source to destination in a matrix that satisfies given constraints
-   14. Find duplicate rows in a binary matrix
-   15. [Sort Matrix Diagonally](https://leetcode.com/problems/sort-the-matrix-diagonally/submissions/)
+   7. Find duplicate rows in a binary matrix
+   8.  [Sort Matrix Diagonally](https://leetcode.com/problems/sort-the-matrix-diagonally/submissions/)
 
 ## Binary Search Trees
    1. [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/discuss/712307/Python3-sharing-two-solutions-with-thought-process-(in-order-traversal-and-recurse-left))
@@ -140,6 +133,8 @@
    5. [rotting-oranges](https://leetcode.com/problems/rotting-oranges/discuss/551658/Python-readable-BFS-solution-beat-94)
    6. [Shortest Path in a Binary Matrix](https://github.com/MeSabya/LeetCodeProgramsInPython/blob/master/Graph/Shortest%20Path%20in%20Binary%20Matrix.md)
    7. [find-longest-possible-route-matrix](https://www.techiedelight.com/find-longest-possible-route-matrix/)
+   8. [Find the total number of unique paths in a maze from source to destination](https://www.techiedelight.com/find-total-number-unique-paths-maze-source-destination/)
+   9. 
 ## Topological Sort
    1. [course-schedule](https://leetcode.com/problems/course-schedule/)
    2. [course-schedule-ii](https://leetcode.com/problems/course-schedule-ii/)
