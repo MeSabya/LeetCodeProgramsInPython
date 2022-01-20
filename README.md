@@ -139,6 +139,7 @@
    4. [Number of Islands](https://leetcode.com/problems/number-of-islands/)
    5. [rotting-oranges](https://leetcode.com/problems/rotting-oranges/discuss/551658/Python-readable-BFS-solution-beat-94)
    6. [Shortest Path in a Binary Matrix](https://github.com/MeSabya/LeetCodeProgramsInPython/blob/master/Graph/Shortest%20Path%20in%20Binary%20Matrix.md)
+   7. [find-longest-possible-route-matrix](https://www.techiedelight.com/find-longest-possible-route-matrix/)
 ## Topological Sort
    1. [course-schedule](https://leetcode.com/problems/course-schedule/)
    2. [course-schedule-ii](https://leetcode.com/problems/course-schedule-ii/)
