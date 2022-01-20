@@ -1,6 +1,8 @@
 ## References:
    1. [30-days-interview-preparation-plan-200-best-coding-questions-and-behavioural-interviews](https://ganeshpr227.medium.com/30-days-interview-preparation-plan-200-best-coding-questions-and-behavioural-interviews-3f8fc19c2361#a4b2)
 
+## Modified Binary Search
+   1. [List of Binary search Problems](https://github.com/MeSabya/LeetCodeProgramsInPython/tree/master/BinarySerach#list-of-binary-search-programs)
 ## Array Problems 
    1. First Missing Positive
    2. Rotate Image
@@ -53,10 +55,6 @@
    2. [Conflicting Appointments]()
    3. [Minimum Meeting Rooms]()
    4. [Maximum CPU Load (hard)]()
-## Cyclic Sort
-   1. 
-## In-place Reversal of a LinkedList
-
 ## Matrix Problems 
    1. Print matrix in spiral order
    2. Create a spiral matrix from a given array
@@ -119,8 +117,7 @@
 ## Subsets
    1. [String Permutations by changing case]()
    2. [Unique Generalized Abbreviations]()
-## Modified Binary Search
-   1. 
+
 ## Bitwise XOR
 ## Top ‘K’ Elements
 ## K-way Merge
@@ -148,4 +145,4 @@
 ## Union Find
    1. [Redundant Connection](https://leetcode.com/problems/redundant-connection/discuss/107990/Python-52ms-DFS-Algorithm-with-Explanations-(compared-with-52ms-union-find))
    2. [Number-of-operations-to-make-network-connected](https://leetcode.com/problems/number-of-operations-to-make-network-connected/discuss/1631752/Python-Union-Find-solution-with-Comments-Explanation)
-## Unique Paths
+
