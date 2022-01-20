@@ -134,7 +134,7 @@
    6. [Shortest Path in a Binary Matrix](https://github.com/MeSabya/LeetCodeProgramsInPython/blob/master/Graph/Shortest%20Path%20in%20Binary%20Matrix.md)
    7. [find-longest-possible-route-matrix](https://www.techiedelight.com/find-longest-possible-route-matrix/)
    8. [Find the total number of unique paths in a maze from source to destination](https://www.techiedelight.com/find-total-number-unique-paths-maze-source-destination/)
-   9. 
+   9. [UniquePaths](https://github.com/MeSabya/LeetCodeProgramsInPython/blob/master/Graph/UniquePaths.md)
 ## Topological Sort
    1. [course-schedule](https://leetcode.com/problems/course-schedule/)
    2. [course-schedule-ii](https://leetcode.com/problems/course-schedule-ii/)
