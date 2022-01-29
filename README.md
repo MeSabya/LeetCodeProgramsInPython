@@ -112,7 +112,7 @@
    2. [Next Interval]()
    3. [Sliding window median]()
 ## Subsets
-   1. [String Permutations by changing case]()
+   1. [String Permutations by changing case](https://leetcode.com/problems/letter-case-permutation/)
    2. [Unique Generalized Abbreviations]()
 
 ## Bitwise XOR
