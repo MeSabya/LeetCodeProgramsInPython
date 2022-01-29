@@ -114,7 +114,7 @@
 ## Subsets
    1. [String Permutations by changing case](https://leetcode.com/problems/letter-case-permutation/)
    2. [Unique Generalized Abbreviations]()
-   3. [Generate Parentheses]()
+   3. [Generate Parentheses](https://github.com/MeSabya/LeetCodeProgramsInPython/blob/master/SubSets/BalancedParentheses.md)
 
 ## Bitwise XOR
 ## Top ‘K’ Elements
