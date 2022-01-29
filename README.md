@@ -113,8 +113,10 @@
    3. [Sliding window median]()
 ## Subsets
    1. [String Permutations by changing case](https://leetcode.com/problems/letter-case-permutation/)
-   2. [Unique Generalized Abbreviations]()
+   2. [Permutations of a string]()
    3. [Generate Parentheses](https://github.com/MeSabya/LeetCodeProgramsInPython/blob/master/SubSets/BalancedParentheses.md)
+   4. [subsets with duplicates]()
+   5. 
 
 ## Bitwise XOR
 ## Top ‘K’ Elements
