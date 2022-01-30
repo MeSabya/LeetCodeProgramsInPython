@@ -156,6 +156,9 @@
    7. [find-longest-possible-route-matrix](https://www.techiedelight.com/find-longest-possible-route-matrix/)
    8. [Find the total number of unique paths in a maze from source to destination](https://www.techiedelight.com/find-total-number-unique-paths-maze-source-destination/)
    9. [UniquePaths](https://github.com/MeSabya/LeetCodeProgramsInPython/blob/master/Graph/UniquePaths.md)
+   10. Detect cycle in an undirected graph
+   11. Shortest path in a weighted graph
+   12. Shortest path in a unweighted graph
 ## Topological Sort
    1. [course-schedule](https://leetcode.com/problems/course-schedule/)
    2. [course-schedule-ii](https://leetcode.com/problems/course-schedule-ii/)
