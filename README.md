@@ -2,8 +2,7 @@
    1. [30-days-interview-preparation-plan-200-best-coding-questions-and-behavioural-interviews](https://ganeshpr227.medium.com/30-days-interview-preparation-plan-200-best-coding-questions-and-behavioural-interviews-3f8fc19c2361#a4b2)
    2. [List of Leetcode Programs](https://gist.github.com/krishnadey30/88c4e2f601e96597974c00185e479532)
 
-![image](https://user-images.githubusercontent.com/33947539/151698107-a3d77317-c6ee-47b5-89a0-104df1b3f572.png)
-
+![image](https://user-images.githubusercontent.com/33947539/151698402-05c168ed-1ae5-4873-a807-3c1d661f644e.png)
 
 ## Modified Binary Search
    1. [List of Binary search Problems](https://github.com/MeSabya/LeetCodeProgramsInPython/tree/master/BinarySerach#list-of-binary-search-programs)
