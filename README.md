@@ -11,7 +11,7 @@
 ## Modified Binary Search
    1. [List of Binary search Problems](https://github.com/MeSabya/LeetCodeProgramsInPython/tree/master/BinarySerach#list-of-binary-search-programs)
 
-<details>
+
 ## Array Problems 
    1. First Missing Positive
    2. Rotate Image
@@ -34,7 +34,7 @@
    19. [Chocolate Distribution Problem](https://github.com/MeSabya/LeetCodeProgramsInPython/blob/master/ArrayProblems/2.%20Chocolate%20Distribution%20Problem.md)
    20. [Maximum Sum Circular subarray](https://github.com/MeSabya/LeetCodeProgramsInPython/blob/master/ArrayProblems/3.%20Maximum%20Circular%20Subarray%20Sum.md)
    21. [Maximum Product Sub Array](https://github.com/MeSabya/LeetCodeProgramsInPython/blob/master/ArrayProblems/4.%20MaximumProductSubArr.md)
-</details>
+
 ## String Prolems
    1. [Count Pallindromes](https://github.com/MeSabya/LeetCodeProgramsInPython/blob/master/StringProblems/CountPallindromes.md)
    2. How do you print duplicate characters from a string? (solution)
