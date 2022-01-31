@@ -35,18 +35,19 @@
 
 ## String Prolems
    1. [Count Pallindromes](https://github.com/MeSabya/LeetCodeProgramsInPython/blob/master/StringProblems/CountPallindromes.md)
-   2. How do you print duplicate characters from a string? (solution)
-   3. How do you check if two strings are anagrams of each other? (solution)
-   4. How do you print the first non-repeated character from a string? (solution)
-   5. How can a given string be reversed using recursion? (solution)
-   6. How do you check if a string contains only digits? (solution
-   7. How are duplicate characters found in a string? (solution)
-   8. How do you count the number of vowels and consonants in a given string? (solution)
-   9. How do you count the occurrence of a given character in a string? (solution)
-   10. How do you find all the permutations of a string? (solution)
-   11. How do you reverse words in a given sentence without using any library method? (solution)
-   12. How do you check if two strings are a rotation of each other? (solution)
-   13. How do you check if a given string is a palindrome? (solution)
+   2. Longest common prefix for a list of words.
+   3. String to Integer
+   4. Group Anagrams
+   5. Decode Ways
+   6. [Reorganize String](https://leetcode.com/problems/reorganize-string/) 
+   7. [Longest Substring with At Least K Repeating Characters](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/)
+   8. How do you find all the permutations of a string? 
+   9. How do you reverse words in a given sentence without using any library method?
+   10. How do you check if two strings are a rotation of each other? 
+   11. [Largest Number](https://leetcode.com/problems/largest-number/)
+   12. [Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/)
+   13. [Robot return to origin](https://leetcode.com/problems/robot-return-to-origin/)
+  
 ## Stack Problems
    1. [Remove K Digits](https://leetcode.com/problems/remove-k-digits/)
    2. [Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/)
