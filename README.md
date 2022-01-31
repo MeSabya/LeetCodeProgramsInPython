@@ -92,8 +92,8 @@
    1. [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/discuss/712307/Python3-sharing-two-solutions-with-thought-process-(in-order-traversal-and-recurse-left))
    2. Kth Smallest Element in a BST
    3. Lowest Common Ancestor of a Binary Search Tree
-   4. Validate Binary Search Tree
-   5.  
+   4. [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/submissions/)
+   5. [range-sum-of-bst](https://leetcode.com/problems/range-sum-of-bst/submissions/) 
 
 ## Tree Problems 
 
@@ -101,39 +101,40 @@
    1. [Binary Tree Level Order Traversal]()
    2. [Minimum Depth of a Binary Tree]()
    3. [Connect Level Order Siblings]()
+   4. 
 ## Tree Depth First Search
 ### Easy
 1. [symmetric-tree](https://leetcode.com/problems/symmetric-tree/)
 2. [maximum-depth-of-binary-tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/submissions/)
 3. [invert-binary-tree](https://leetcode.com/problems/invert-binary-tree/submissions/)
-4. 
+4. [diameter-of-binary-tree](https://leetcode.com/problems/diameter-of-binary-tree/)
+5. [merge-two-binary-trees](https://leetcode.com/problems/merge-two-binary-trees/submissions/)
+6. [minimum-depth-of-binary-tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/discuss/36239/Python-BFS-and-DFS-solutions.)
+7. [path-sum](https://leetcode.com/problems/path-sum/submissions/)
+8. [subtree-of-another-tree](https://leetcode.com/problems/subtree-of-another-tree/discuss/265239/Python-Easy-to-Understand)
+9. [balanced-binary-tree](https://leetcode.com/problems/balanced-binary-tree/submissions/)
+10.[sum-of-root-to-leaf-binary-numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/discuss/1681814/Python-Simple-DFS-approach) 
+
 ### Medium
-### Hard
-   1. [Binary Tree Path Sum (easy)]()
-   2. [All Paths for a Sum (medium)]()
-   3. [Sum of Path Numbers (medium)]()
-   4. [Path With Given Sequence (medium)]()
-   5. [Count Paths for a Sum (medium)]()
-   6. [Tree Diameter (medium)]()
-   7. [Path with Maximum Sum (hard)]()
-   8. [Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/submissions/)
-   9. 
-   10. Same Tree
-   11. Maximum Depth of Binary Tree
-   12. Construct Binary Tree from Preorder and Inorder Traversal
-   13. Path Sum
-   14. Path Sum II
-   15. Implement Trie (Prefix Tree)
-   16. Word Search II
-   17. Invert Binary Tree
-   18. Lowest Common Ancestor of a Binary Tree
-   21. Serialize and Deserialize Binary Tree
-   22. Path Sum III
-   23. Diameter of Binary Tree
-   24. Subtree of Another Tree
-   25. Merge Two Binary Trees
-   26. Maximum Binary Tree
-   27. Maximum Width of Binary Tree
+1. [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/discuss/41383/Python-solutions-(dfs%2Bstack-bfs%2Bqueue-dfs-recursively).)
+1. [All Paths for a Sum (medium)]()
+3. [Sum of Path Numbers (medium)]()
+4. [Path With Given Sequence (medium)]()
+5. [Count Paths for a Sum (medium)]()
+7. [Path with Maximum Sum (hard)]()
+8. [Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/submissions/)
+10. Same Tree
+12. Construct Binary Tree from Preorder and Inorder Traversal
+13. Path Sum
+14. Path Sum II
+15. Implement Trie (Prefix Tree)
+16. Word Search II
+18. Lowest Common Ancestor of a Binary Tree
+21. Serialize and Deserialize Binary Tree
+22. Path Sum III
+
+##### Reference
+https://igotanoffer.com/blogs/tech/tree-interview-questions
 
 ## Heap Problems
    1. [maximum-profit-in-job-scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/discuss/1430590/Python-or-Heapq-%2B-DP-or-Solution-With-Explaination)
