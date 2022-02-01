@@ -1,21 +1,108 @@
 # Union-Find Basics
 
-*The union-find algorithm is one approach to solve the network connectivity problem, that is given a network, is there a path from one part of the network to another part? Take a friendship graph on Facebook for example, when Sarah goes on Rob’s page, the internal Facebook system will ask, do Sarah and Rob have mutual friends?*
+>Union-find is a logic and a data type to effectively find whether two points are connected. The basic idea is that we put all the connected nodes in the same group. When we want to check if some nodes are connected, we can quickly check whether they belong to the same group.
 
-![image](https://user-images.githubusercontent.com/33947539/147533967-58066f1e-ebb3-4b31-958b-79013fbd52cc.png)
+## Union-find has the following API:
 
-We can look at this image and identify that people are the blue figurines, the red line indicates friendship, and since there is a path of friends from Sarah to Rob (via person C and then A), then we conclude that Sarah and Rob do have mutual friends. Mathematicians represent this information using sets. A set is a collection of items that can be organized together. The smallest of sets is an empty set, denoted by {}. The above figure can be represented by two sets, {A, Rob, Sarah, C} and {B, D}. We notice that these two sets do not share any of the same elements, thus they are called disjoint sets.
+![image](https://user-images.githubusercontent.com/33947539/151917226-0d0a1909-c13b-4520-81f0-094ff811fc9a.png)
 
-The union-find algorithm uses disjoint data sets to solve the network connectivity problem. This algorithm has three operations it can call:
+👉 **def union(self, p, q):**
 
-✔ Union : Given two nodes u and v, to merge them together if they’re disjoint. Otherwise, return False, which means they’re connected already.
+union(3,4)
 
-✔ Find(): Given a node u, to find root node of u. Determine which subset a particular element is in. This can be used for determining if two elements are in the same subset.
+![image](https://user-images.githubusercontent.com/33947539/151917297-b51e8b66-26ac-43bf-8872-c4e60c30f455.png)
 
-✔ Makeset(E): Create a new subset with the element E.
+👉 **def connected(self, p, q):**
 
-Let us work this out in on the previous example. We start out with subsets [{A}, {Rob}, {Sarah}, {C}, {B}, {D}] by calling Makeset 6 times. Then we see that Rob is connected to A directly, so we call Union({Rob}, {A}), since both subsets are the same size, we arbitrarily let Rob be the representative so we have {Rob, A}. We also see that C is connected to A, so we call Union({Rob, A}, {C}). We continue doing this until we have the two disjoint sets {Rob, A, C, Sarah} and {B, D}. Now the Find operation is easy because we can call Find(Rob) and Find(Sarah) who both return the same representative element, Rob, leading us to conclude that they are in the same set, thus are connected by mutual friends.
+connected(1,2) will return True
 
+👉 **def count(self):**
+count() will return 5
+
+👉 **def find(self, p):**
+
+this one will return the component identifier for p (0 to N — 1), we will explain in the following
+
+## How do we apply this algorithm?
+
+>Data structure
+>Integer array id[] of size N
+>Two nodes are connected if and only if they have the same id
+
+![image](https://user-images.githubusercontent.com/33947539/151917569-3fb26a5b-dd7a-40b1-93e7-8b1ad4c5f461.png)
+
+**Connected**: Check if the id of nodes are the same. Same will return True, else return False.
+
+**Union**: To merge two nodes, p and q (or components), we need to change all entries whose equals id[p] to id[q]
+
+![image](https://user-images.githubusercontent.com/33947539/151917641-3250c154-a983-44e3-ac47-1a218f828a4f.png)
+
+## Code 
+```python
+# Python Program for union-find algorithm to detect cycle in a undirected graph
+# we have one egde for any two vertex i.e 1-2 is either 1-2 or 2-1 but not both
+
+from collections import defaultdict
+
+#This class represents a undirected graph using adjacency list representation
+class Graph:
+
+	def __init__(self,vertices):
+		self.V= vertices #No. of vertices
+		self.graph = defaultdict(list) # default dictionary to store graph
+
+
+	# function to add an edge to graph
+	def addEdge(self,u,v):
+		self.graph[u].append(v)
+
+	# A utility function to find the subset of an element i
+	def find_parent(self, parent,i):
+		if parent[i] == -1:
+			return i
+		if parent[i]!= -1:
+			return self.find_parent(parent,parent[i])
+
+	# A utility function to do union of two subsets
+	def union(self,parent,x,y):
+		parent[x] = y
+
+
+
+	# The main function to check whether a given graph
+	# contains cycle or not
+	def isCyclic(self):
+		
+		# Allocate memory for creating V subsets and
+		# Initialize all subsets as single element sets
+		parent = [-1]*(self.V)
+
+		# Iterate through all edges of graph, find subset of both
+		# vertices of every edge, if both subsets are same, then
+		# there is cycle in graph.
+		for i in self.graph:
+			for j in self.graph[i]:
+				x = self.find_parent(parent, i)
+				y = self.find_parent(parent, j)
+				if x == y:
+					return True
+				self.union(parent,x,y)
+
+
+# Create a graph given in the above diagram
+g = Graph(3)
+g.addEdge(0, 1)
+g.addEdge(1, 2)
+g.addEdge(2, 0)
+
+if g.isCyclic():
+	print ("Graph contains cycle")
+else :
+	print ("Graph does not contain cycle ")
+
+#This code is contributed by Neelam Yadav
+
+```
 ## Applications:
 1. connected component in Graph problem
 
