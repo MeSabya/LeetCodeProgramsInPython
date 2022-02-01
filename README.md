@@ -183,6 +183,8 @@ https://igotanoffer.com/blogs/tech/tree-interview-questions
    2. [course-schedule-ii](https://leetcode.com/problems/course-schedule-ii/)
    3. [All Tasks Scheduling order]()
 ## Union Find
-   1. [Redundant Connection](https://leetcode.com/problems/redundant-connection/discuss/107990/Python-52ms-DFS-Algorithm-with-Explanations-(compared-with-52ms-union-find))
-   2. [Number-of-operations-to-make-network-connected](https://leetcode.com/problems/number-of-operations-to-make-network-connected/discuss/1631752/Python-Union-Find-solution-with-Comments-Explanation)
+   1. [UnionFind Explanation]
+   2. [Detect Cycle in an Undirected Graph](https://www.geeksforgeeks.org/union-find/)
+   3. [Redundant Connection](https://leetcode.com/problems/redundant-connection/discuss/107990/Python-52ms-DFS-Algorithm-with-Explanations-(compared-with-52ms-union-find))
+   4. [Number-of-operations-to-make-network-connected](https://leetcode.com/problems/number-of-operations-to-make-network-connected/discuss/1631752/Python-Union-Find-solution-with-Comments-Explanation)
 
