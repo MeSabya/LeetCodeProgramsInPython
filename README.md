@@ -185,6 +185,6 @@ https://igotanoffer.com/blogs/tech/tree-interview-questions
 ## Union Find
    1. [UnionFind Explanation](https://github.com/MeSabya/LeetCodeProgramsInPython/blob/master/UnionFindAlgoPattern/UnionFindAlgo.md)
    2. [Detect Cycle in an Undirected Graph](https://www.geeksforgeeks.org/union-find/)
-   3. [Redundant Connection](https://leetcode.com/problems/redundant-connection/discuss/107990/Python-52ms-DFS-Algorithm-with-Explanations-(compared-with-52ms-union-find))
+   3. [Redundant Connection](https://leetcode.com/problems/redundant-connection/discuss/1295728/JS-Python-Java-C%2B%2B-or-Simple-Union-Find-Solution-w-Explanation)
    4. [Number-of-operations-to-make-network-connected](https://leetcode.com/problems/number-of-operations-to-make-network-connected/discuss/1631752/Python-Union-Find-solution-with-Comments-Explanation)
 
