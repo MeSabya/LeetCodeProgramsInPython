@@ -186,6 +186,8 @@ https://igotanoffer.com/blogs/tech/tree-interview-questions
    1. [course-schedule](https://leetcode.com/problems/course-schedule/)
    2. [course-schedule-ii](https://leetcode.com/problems/course-schedule-ii/)
    3. [All Tasks Scheduling order]()
+   4. [Topological Sort Basics](https://github.com/MeSabya/LeetCodeProgramsInPython/blob/master/TopologicalSort/TopologicalSort.md)
+   5. [Detect Cycle in a Directed Graph](https://github.com/MeSabya/LeetCodeProgramsInPython/blob/master/TopologicalSort/TopologicalSort.md#problem-1-find-if-a-given-directed-graph-has-a-cycle-in-it-or-not)
 ## Union Find
    1. [UnionFind Explanation](https://github.com/MeSabya/LeetCodeProgramsInPython/blob/master/UnionFindAlgoPattern/UnionFindAlgo.md)
    2. [Detect Cycle in an Undirected Graph](https://www.geeksforgeeks.org/union-find/)
