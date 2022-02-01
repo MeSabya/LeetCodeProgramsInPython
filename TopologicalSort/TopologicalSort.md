@@ -116,7 +116,13 @@ In step ‘d’, each vertex will become a source only once and each edge will b
 The space complexity will be O(V+E), since we are storing all of the edges for each vertex in an adjacency list.
 
 
+## Similar Problems
+### Problem 1: Find if a given Directed Graph has a cycle in it or not.
 
+Solution: If we can’t determine the topological ordering of all the vertices of a directed graph, the graph has a cycle in it. This was also referred to in the above code:
+
+    if (sortedOrder.size() != vertices) // topological sort is not possible as the graph has a cycle
+      return new ArrayList<>();
 
 
 
