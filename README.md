@@ -178,6 +178,10 @@ https://igotanoffer.com/blogs/tech/tree-interview-questions
    10. Detect cycle in an undirected graph
    11. Shortest path in a weighted graph
    12. Shortest path in a unweighted graph
+
+## Dijkistras Algorithm
+   14. [Dijkistras Algorithm](https://github.com/MeSabya/LeetCodeProgramsInPython/blob/master/Graph/Dijkistras.md)
+   15. [CheapestFlightsWithinKStops](https://github.com/MeSabya/LeetCodeProgramsInPython/blob/master/Graph/Cheapest%20Flights%20Within%20K%20Stops.md)
 ## Topological Sort
    1. [course-schedule](https://leetcode.com/problems/course-schedule/)
    2. [course-schedule-ii](https://leetcode.com/problems/course-schedule-ii/)
