@@ -193,4 +193,5 @@ https://igotanoffer.com/blogs/tech/tree-interview-questions
    2. [Detect Cycle in an Undirected Graph](https://www.geeksforgeeks.org/union-find/)
    3. [Redundant Connection](https://leetcode.com/problems/redundant-connection/discuss/1295728/JS-Python-Java-C%2B%2B-or-Simple-Union-Find-Solution-w-Explanation)
    4. [Number-of-operations-to-make-network-connected](https://leetcode.com/problems/number-of-operations-to-make-network-connected/discuss/1631752/Python-Union-Find-solution-with-Comments-Explanation)
+   5. [Number of Provinces](https://leetcode.com/problems/number-of-provinces/discuss/303150/python-union-find-dfs-bfs)
 
