@@ -103,6 +103,12 @@ else :
 #This code is contributed by Neelam Yadav
 
 ```
+## To Summarize :
+
+👉 *The find function will recursively trace a node's lineage back to its ultimate parent and update its value in the parent array (par), providing a shortcut for the next link.*
+
+👉 *The union function merges two segments by assigning the ultimate parent of one segment to another.*
+
 ## Applications:
 1. connected component in Graph problem
 
