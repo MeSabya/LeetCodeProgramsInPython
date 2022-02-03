@@ -16,6 +16,7 @@ Some of the most common problems include:
 
 # Modified Binary Search 
 
+## Example1 : search-in-rotated-sorted-array
 Example of Modified Binary Search : https://leetcode.com/problems/search-in-rotated-sorted-array/description/
 
 Example 1:
@@ -48,6 +49,13 @@ But where is the target. We do not know anything about the target yet.
 ![image](https://user-images.githubusercontent.com/33947539/152317886-5436a090-47fa-4871-981e-a295d4f4127e.png)
 
 ![image](https://user-images.githubusercontent.com/33947539/152317917-11541152-6bb0-49ad-b26f-f6928610aa03.png)
+
+## Example2: Find Minimum in Rotated Sorted Array
+https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/
+
+It follows the same inflection point theory as above. With some slight modifications as captured above:
+
+![image](https://user-images.githubusercontent.com/33947539/152319692-034018d4-b952-4edc-b3b9-932bc71bc417.png)
 
 
 
