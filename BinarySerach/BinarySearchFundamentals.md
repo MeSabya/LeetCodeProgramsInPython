@@ -14,7 +14,40 @@ Some of the most common problems include:
 2. Decide return value. Is it return left or return left - 1? **Remember this: after exiting the while loop, left is the minimal k satisfying the condition function;**
 3. Design the condition function. This is the most difficult and most beautiful part. Needs lots of practice.
 
+# Modified Binary Search 
 
+Example of Modified Binary Search : https://leetcode.com/problems/search-in-rotated-sorted-array/description/
+
+Example 1:
+
+Input: nums = [4,5,6,7,0,1,2], target = 0
+Output: 4
+Example 2:
+
+Input: nums = [4,5,6,7,0,1,2], target = 3
+Output: -1
+
+**The precondition for Binary Search is that it needs a sorted array. But, the input arrays from the above are not sorted anymore or are they?**
+
+![image](https://user-images.githubusercontent.com/33947539/152317514-09117459-d971-4596-8a09-259145b632da.png)
+
+In this rotated sorted array we would first need to find out the point/index which divides the array into two parts such that we have two sorted arrays and then decide which part does target belongs to.
+
+For e.g. in the above diagram if we are searching for target = 6 then first part of the array is where we need to search by using Binary Search.
+
+*The point which divides the array into two parts can be seen as a point of change, hence let’s call this point as inflection point.*
+
+We can modify the binary search condition to consider the inflection point condition.
+
+![image](https://user-images.githubusercontent.com/33947539/152317719-a194cd41-008e-4495-8324-588944775963.png)
+
+        If A[i] > A[0] then A[i] is to the left of inflection point, otherwise A[i] is to the right of inflection point.
+
+But where is the target. We do not know anything about the target yet.
+
+![image](https://user-images.githubusercontent.com/33947539/152317886-5436a090-47fa-4871-981e-a295d4f4127e.png)
+
+![image](https://user-images.githubusercontent.com/33947539/152317917-11541152-6bb0-49ad-b26f-f6928610aa03.png)
 
 
 
