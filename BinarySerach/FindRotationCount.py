@@ -1,4 +1,6 @@
 '''
+Please refer : https://github.com/MeSabya/LeetCodeProgramsInPython/blob/master/BinarySerach/BinarySearchFundamentals.md#modified-binary-search First.
+
 In this problem, actually, we are asked to find the index of the minimum element.
 The number of times the minimum element is moved to the right will be equal to the number of rotations.
 
@@ -11,7 +13,7 @@ After calculating the middle, we can compare the number at index middle with its
 
 To adjust the ranges we can follow the same approach as discussed in Search in Rotated Array. Comparing the numbers at indices start and middle will give us two options:
 
-✔ If arr[start] < arr[middle], the numbers from start to middle are sorted.
+✔ If arr[start] < arr[middle], the numbers from start to middle are sorted. 
 ✔ Else, the numbers from middle + 1 to end are sorted.
 
 '''
