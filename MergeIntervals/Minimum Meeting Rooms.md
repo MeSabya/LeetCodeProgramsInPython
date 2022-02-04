@@ -24,12 +24,14 @@ hold all the meetings.
 ```
 
 ## Solution
-      Sort all the meetings on their start time.
-      Create a min-heap to store all the active meetings. This min-heap will also be used to find the active meeting with the smallest end time.
-      Iterate through all the meetings one by one to add them in the min-heap. Let’s say we are trying to schedule the meeting m1.
-      Since the min-heap contains all the active meetings, so before scheduling m1 we can remove all meetings from the heap that have ended before m1, i.e., remove all meetings from the heap that have an end time smaller than or equal to the start time of m1.
-      Now add m1 to the heap.
-      The heap will always have all the overlapping meetings, so we will need rooms for all of them. Keep a counter to remember the maximum size of the heap at any time which will be the minimum number of rooms needed.
+1. Sort all the meetings on their start time.
+2. Create a min-heap to store all the active meetings. This min-heap will also be used to find the active meeting with the smallest end time.
+3. Iterate through all the meetings one by one to add them in the min-heap. Let’s say we are trying to schedule the meeting m1.
+Since the min-heap contains all the active meetings, so before scheduling m1 we can remove all meetings from the heap that have ended before m1, i.e., remove all meetings from the heap that have an end time smaller than or equal to the start time of m1.
+
+4. Now add m1 to the heap.
+
+5. The heap will always have all the overlapping meetings, so we will need rooms for all of them. Keep a counter to remember the maximum size of the heap at any time which will be the minimum number of rooms needed.
 
 ```python
 from heapq import *
