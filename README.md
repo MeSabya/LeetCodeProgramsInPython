@@ -51,7 +51,7 @@
    13. How do you check if a given string is a palindrome? (solution)
    14. [String Interleaving](https://leetcode.com/problems/interleaving-string/submissions/)
    15. [next-greater-element-iii](https://leetcode.com/problems/next-greater-element-iii/submissions/)
-   16. 
+   16. [Next higher Palindrome Same digits](https://github.com/MeSabya/LeetCodeProgramsInPython/blob/master/StringProblems/NexthigherPalindromeSamedigits.md#next-higher-palindrome-using-the-same-set-of-digits)
 ## Stack Problems
    1. [Remove K Digits](https://leetcode.com/problems/remove-k-digits/)
    2. [Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/)
