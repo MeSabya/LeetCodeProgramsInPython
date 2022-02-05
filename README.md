@@ -2,7 +2,7 @@
    1. [30-days-interview-preparation-plan-200-best-coding-questions-and-behavioural-interviews](https://ganeshpr227.medium.com/30-days-interview-preparation-plan-200-best-coding-questions-and-behavioural-interviews-3f8fc19c2361#a4b2)
    2. [List of Leetcode Programs](https://gist.github.com/krishnadey30/88c4e2f601e96597974c00185e479532)
 
-   ![image](https://user-images.githubusercontent.com/33947539/151698402-05c168ed-1ae5-4873-a807-3c1d661f644e.png)
+  
    
    [Behavioral Based Job Interview Questions1](https://www.thebalancecareers.com/top-behavioral-interview-questions-2059618)
    
