@@ -16,7 +16,7 @@
    1. First Missing Positive
    2. Rotate Image
    3. Spiral Matrix
-   4. [Set Matrix Zeroes](https://programmerall.com/article/11872146433/)
+   4. [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/submissions/)
    5. [Word Search](https://leetcode.com/problems/word-search/submissions/)
    6. [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/submissions/)
    7. Single Number
