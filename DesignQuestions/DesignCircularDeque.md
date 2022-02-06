@@ -40,6 +40,7 @@ class Deque:
         return len(self.items)
 
 ```
+## Circular Deque Algorithm
 
 ```python
 class MyCircularDeque:
