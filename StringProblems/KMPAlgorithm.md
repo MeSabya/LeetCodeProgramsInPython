@@ -155,6 +155,10 @@ while j < len(T):
 
 ![image](https://user-images.githubusercontent.com/33947539/152739852-7278c58d-b66f-4763-bef2-93fe8a05e7e8.png)
 
+### Some important points of observation:
+
+1. When there is a mimatch , previous index tells about where to start comparing next.
+2. The above is true for both algorithms, lps construction and KMP algorithm.
             
 
     
