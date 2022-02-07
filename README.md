@@ -136,6 +136,7 @@
 18. Lowest Common Ancestor of a Binary Tree
 21. Serialize and Deserialize Binary Tree
 22. Path Sum III
+23. [find-duplicate-subtrees](https://leetcode.com/problems/find-duplicate-subtrees/discuss/387417/easy-peasy-recursive-preorder-solution)
 
 ##### Reference
 https://igotanoffer.com/blogs/tech/tree-interview-questions
