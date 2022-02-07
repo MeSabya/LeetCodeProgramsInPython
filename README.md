@@ -144,9 +144,10 @@ https://igotanoffer.com/blogs/tech/tree-interview-questions
 ## Heap Problems
    1. [maximum-profit-in-job-scheduling](https://leetcode.com/problems/maximum-profit-in-job-scheduling/discuss/1430590/Python-or-Heapq-%2B-DP-or-Solution-With-Explaination)
 ## Two Heaps
-   1. [Find the Median of a Number Stream]()
+   1. [Find the Median of a Number Stream](https://github.com/MeSabya/LeetCodeProgramsInPython/blob/master/TwoHeapsPattern/MedianoOfANumberStream.md)
    2. [Next Interval]()
    3. [Sliding window median]()
+   4. 
 ## Subsets
    1. [String Permutations by changing case](https://leetcode.com/problems/letter-case-permutation/)
    2. [Permutations of a string]()
