@@ -10,6 +10,7 @@
 
 ## Modified Binary Search
    1. [List of Binary search Problems](https://github.com/MeSabya/LeetCodeProgramsInPython/tree/master/BinarySerach#list-of-binary-search-programs)
+   2. [Find Right Interval](https://leetcode.com/problems/find-right-interval/)
 
 
 ## Array Problems 
