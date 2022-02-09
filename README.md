@@ -167,6 +167,7 @@ https://igotanoffer.com/blogs/tech/tree-interview-questions
 ## Unbounded Knapsack
    1. [UnboundedKSList](https://github.com/MeSabya/LeetCodeProgramsInPython/blob/master/DynamicProgrammingPattern/UnboundKnapSackPattern/UnboundedKnapSack/UnboundedKnapSack.md#list-of-unbounded-ks-problems)
    2. [combination-sum](https://leetcode.com/problems/combination-sum/)
+      [combination-sum](https://leetcode.com/problems/combination-sum/discuss/632799/Three-Python-solutions-(DPBFSBacktrack)-with-explanation.-Time-beats-~88)
 ## Fibonacci Number Pattern
 1. [house-robber](https://leetcode.com/problems/house-robber/submissions/)
 ## Palindromic Subsequence
