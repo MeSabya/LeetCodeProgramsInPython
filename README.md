@@ -175,8 +175,9 @@ https://igotanoffer.com/blogs/tech/tree-interview-questions
    1. [palindrome-partitioning](https://leetcode.com/problems/palindrome-partitioning/) 
 ## Longest Common Substring
 
-## Longest Increasing Subsequence 
-   2. Same Pattern as above https://leetcode.com/problems/russian-doll-envelopes/discuss/1371753/Python-Super-clean-solution-using-LIS
+## Longest Increasing Subsequence
+   1. [LIS](https://leetcode.com/problems/longest-increasing-subsequence/submissions/)
+   2. [russian-doll-envelopes](https://leetcode.com/problems/russian-doll-envelopes/submissions/)
 ## Graph Problems 
    1. [Detect-cycle-in-a-directed-graph](https://www.geeksforgeeks.org/detect-cycle-in-a-directed-graph-using-bfs/?ref=rp)
    2. [Max-area-of-island](https://leetcode.com/problems/max-area-of-island/discuss/425540/Python-3-Clean-and-easy-to-understand-dfs-approach)
