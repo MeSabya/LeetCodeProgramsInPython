@@ -171,7 +171,8 @@ https://igotanoffer.com/blogs/tech/tree-interview-questions
       [combination-sum](https://leetcode.com/problems/combination-sum/discuss/632799/Three-Python-solutions-(DPBFSBacktrack)-with-explanation.-Time-beats-~88)
 ## Fibonacci Number Pattern
 1. [house-robber](https://leetcode.com/problems/house-robber/submissions/)
-## Palindromic Subsequence
+## DP Problems Palindromic Subsequence
+   1. [palindrome-partitioning](https://leetcode.com/problems/palindrome-partitioning/) 
 ## Longest Common Substring
 
 ## Longest Increasing Subsequence 
