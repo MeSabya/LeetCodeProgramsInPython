@@ -79,6 +79,9 @@
    1. [Squaring a Sorted Array]()
    2. [Dutch National Flag Problem]()
    3. [Minimum Window Sort]()
+   4. [ContainerWithMostWater](https://github.com/MeSabya/LeetCodeProgramsInPython/blob/master/TwoPointerPattern/ContainerWithMostWater.md)
+   5. [TrappingRainWater](https://github.com/MeSabya/LeetCodeProgramsInPython/blob/master/TwoPointerPattern/TrappingRainWater.md)
+   6. 
 ## Fast & Slow Pointers
    1. [Middle of the LinkedList]()
    2. [Happy Number]()
