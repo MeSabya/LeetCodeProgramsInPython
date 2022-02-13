@@ -57,6 +57,7 @@
    14. [String Interleaving](https://leetcode.com/problems/interleaving-string/submissions/)
    15. [next-greater-element-iii](https://leetcode.com/problems/next-greater-element-iii/submissions/)
    16. [Next higher Palindrome Same digits](https://github.com/MeSabya/LeetCodeProgramsInPython/blob/master/StringProblems/NexthigherPalindromeSamedigits.md#next-higher-palindrome-using-the-same-set-of-digits)
+   17. [count-number-of-distinct-substring-in-a-string](https://www.geeksforgeeks.org/count-number-of-distinct-substring-in-a-string/)
 ## Stack Problems
    1. [Remove K Digits](https://leetcode.com/problems/remove-k-digits/)
    2. [Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/)
