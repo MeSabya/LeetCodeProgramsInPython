@@ -135,7 +135,7 @@ class Node:
 ```
 Each bucket will actually contain a LinkedList of nodes containing the objects stored at that index. This is one method of **collision resolution.**
 
-***How to handle uneven distribution of keys ?***
+***Question2: How to handle uneven distribution of keys ?***
 
 ![image](https://user-images.githubusercontent.com/33947539/153858260-3ccabbd6-3ac1-48bf-b5e9-b4d12534460c.png)
 
