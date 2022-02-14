@@ -117,3 +117,47 @@ class HashTable:
 			# Return the deleted result 
 			return result
 ```
+
+## Solution Explanation
+
+***Question1: How the above solves the collisons?***
+
+*Whenever two keys have the same hash value, it is considered a collision. What should our hash table do? If it just wrote the data into the location anyway, we would be losing the object that is already stored under a different key.
+With separate chaining, we create a Linked List at each index of our buckets array, containing all keys for a given index. When we need to look up one of those items, we iterate the list until we find the Node matching the requested key.*
+
+
+```python
+class Node:
+    def __init__(self, key, value):
+        self.key = key
+        self.value = value
+        self.next = None
+```
+Each bucket will actually contain a LinkedList of nodes containing the objects stored at that index. This is one method of **collision resolution.**
+
+***How to handle uneven distribution of keys ?***
+
+![image](https://user-images.githubusercontent.com/33947539/153858260-3ccabbd6-3ac1-48bf-b5e9-b4d12534460c.png)
+
+The above is called as uneven distribution , as most of the keys are mapped to bucket 1. Because our hash function must be h(x) = 1. 
+In order to maintain a proper distribution across the buckets , our hash function is like below:
+
+```python
+def hash(self, key):
+	hashsum = 0
+	# For each character in the key
+
+	for idx, c in enumerate(key):
+		# Add (index + length of key) ^ (current char code)
+
+		hashsum += (idx + len(key)) ** ord(c)
+		# Perform modulus to keep hashsum in range [0, self.capacity - 1]
+
+		hashsum = hashsum % self.capacity
+	return hashsum
+```
+
+
+
+
+
