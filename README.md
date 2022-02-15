@@ -199,6 +199,7 @@ https://igotanoffer.com/blogs/tech/tree-interview-questions
    11. Shortest path in a weighted graph
    12. Shortest path in a unweighted graph
    13. [path-with-maximum-gold](https://leetcode.com/problems/path-with-maximum-gold/submissions/)
+   14. [unique-paths- with obstacle](https://leetcode.com/problems/unique-paths-ii/submissions/)
 
 ## Dijkistras Algorithm
    14. [Dijkistras Algorithm](https://github.com/MeSabya/LeetCodeProgramsInPython/blob/master/Graph/Dijkistras.md)
