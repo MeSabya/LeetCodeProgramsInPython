@@ -102,7 +102,14 @@
    5. Find the largest square submatrix which is surrounded by all 1’s
    6. Find all common elements present in each row of a matrix
    7. Find duplicate rows in a binary matrix
-   8.  [Sort Matrix Diagonally](https://leetcode.com/problems/sort-the-matrix-diagonally/submissions/)
+   8. [Sort Matrix Diagonally](https://leetcode.com/problems/sort-the-matrix-diagonally/submissions/)
+   9. Search an element in a matriix
+   10. Find median in a row wise sorted matrix
+   11. Find row with maximum no. of 1's
+   12. Print elements in sorted order using row-column wise sorted matrix
+   13. Maximum size rectangle
+   14. Find a specific pair in matrix
+   15. Kth smallest element in a row-cpumn wise sorted matrix
 
 ## Binary Search Trees
    1. [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/discuss/712307/Python3-sharing-two-solutions-with-thought-process-(in-order-traversal-and-recurse-left))
