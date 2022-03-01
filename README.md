@@ -42,24 +42,50 @@
 
 ## String Prolems
    1. [Count Pallindromes](https://github.com/MeSabya/LeetCodeProgramsInPython/blob/master/StringProblems/CountPallindromes.md)
-   2. How do you print duplicate characters from a string? (solution)
-   3. How do you check if two strings are anagrams of each other? (solution)
-   4. How do you print the first non-repeated character from a string? (solution)
-   5. How can a given string be reversed using recursion? (solution)
-   6. How do you check if a string contains only digits? (solution
-   7. How are duplicate characters found in a string? (solution)
-   8. How do you count the number of vowels and consonants in a given string? (solution)
-   9. How do you count the occurrence of a given character in a string? (solution)
-   10. How do you find all the permutations of a string? (solution)
-   11. How do you reverse words in a given sentence without using any library method? (solution)
-   12. How do you check if two strings are a rotation of each other? (solution)
-   13. How do you check if a given string is a palindrome? (solution)
-   14. [String Interleaving](https://leetcode.com/problems/interleaving-string/submissions/)
-   15. [next-greater-element-iii](https://leetcode.com/problems/next-greater-element-iii/submissions/)
-   16. [Next higher Palindrome Same digits](https://github.com/MeSabya/LeetCodeProgramsInPython/blob/master/StringProblems/NexthigherPalindromeSamedigits.md#next-higher-palindrome-using-the-same-set-of-digits)
-   17. [count-number-of-distinct-substring-in-a-string](https://www.geeksforgeeks.org/count-number-of-distinct-substring-in-a-string/)
-   18. [reverse-words-in-a-string](https://leetcode.com/problems/reverse-words-in-a-string/submissions/)
-   19. 
+   2. [String Interleaving](https://leetcode.com/problems/interleaving-string/submissions/)
+   3. [next-greater-element-iii](https://leetcode.com/problems/next-greater-element-iii/submissions/)
+   4. [Next higher Palindrome Same digits](https://github.com/MeSabya/LeetCodeProgramsInPython/blob/master/StringProblems/NexthigherPalindromeSamedigits.md#next-higher-palindrome-using-the-same-set-of-digits)
+   5. [count-number-of-distinct-substring-in-a-string](https://www.geeksforgeeks.org/count-number-of-distinct-substring-in-a-string/)
+   6. [reverse-words-in-a-string](https://leetcode.com/problems/reverse-words-in-a-string/submissions/)
+   7. Write a Code to check whether one string is a rotation of another
+   8. Write a Program to check whether a string is a valid shuffle of two strings or not
+   9. Count and Say problem
+   10. Write a program to find the longest Palindrome in a string.[ Longest palindromic Substring]
+   11. Find Longest Recurring Subsequence in String
+   12. Print all Subsequences of a string.
+   13. Print all the permutations of the given string
+   14. Split the Binary string into two substring with equal 0’s and 1’s
+   15. Word Wrap Problem [VERY IMP].
+   16. EDIT Distance [Very Imp]
+   17. Find next greater number with same set of digits. [Very Very IMP]
+   18. Balanced Parenthesis problem.[Imp]
+   19. Word break Problem[ Very Imp]
+   20. Rabin Karp Algo
+   21. KMP Algo
+   22. Convert a Sentence into its equivalent mobile numeric keypad sequence.
+   23. Minimum number of bracket reversals needed to make an expression balanced.
+   24. Count All Palindromic Subsequence in a given String.
+   25. Count of number of given string in 2D character array
+   26. Search a Word in a 2D Grid of characters.
+   27. Converting Roman Numerals to Decimal
+   28. Longest Common Prefix
+   29. Number of flips to make binary string alternate
+   30. Find the first repeated word in string.
+   31. Minimum number of swaps for bracket balancing.
+   32. Find the longest common subsequence between two strings.
+   33. Program to generate all possible valid IP addresses from given  string.
+   34. Write a program tofind the smallest window that contains all characters of string itself.
+   35. Rearrange characters in a string such that no two adjacent are same
+   36. Minimum characters to be added at front to make string palindrome
+   37. Given a sequence of words, print all anagrams together
+   38. Find the smallest window in a string containing all characters of another string
+   39. Recursively remove all adjacent duplicates
+   40. String matching where one string contains wildcard characters
+   41. Function to find Number of customers who could not get a computer
+   42. Transform One String to Another using Minimum Number of Given Operation
+   43. Check if two given strings are isomorphic to each other
+   44. Recursively print all sentences that can be formed from list of word lists
+
 ## Stack Problems
    1. [Remove K Digits](https://leetcode.com/problems/remove-k-digits/)
    2. [Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/)
