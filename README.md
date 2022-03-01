@@ -176,7 +176,7 @@
 10. Same Tree
 12. Construct Binary Tree from Preorder and Inorder Traversal
 13. Path Sum
-14. Path Sum II
+14. [Path Sum II](https://leetcode.com/problems/path-sum-ii/)
 15. Implement Trie (Prefix Tree)
 16. Word Search II
 18. Lowest Common Ancestor of a Binary Tree
