@@ -142,7 +142,8 @@
    2. Kth Smallest Element in a BST
    3. Lowest Common Ancestor of a Binary Search Tree
    4. [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/submissions/)
-   5. [range-sum-of-bst](https://leetcode.com/problems/range-sum-of-bst/submissions/) 
+   5. [range-sum-of-bst](https://leetcode.com/problems/range-sum-of-bst/submissions/)
+   6. [convert-bst-to-greater-tree](https://leetcode.com/problems/convert-bst-to-greater-tree/submissions/) 
 
 ## Tree Problems 
 
