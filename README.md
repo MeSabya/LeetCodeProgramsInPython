@@ -201,7 +201,7 @@ https://igotanoffer.com/blogs/tech/tree-interview-questions
    13. [path-with-maximum-gold](https://leetcode.com/problems/path-with-maximum-gold/submissions/)
    14. [unique-paths- with obstacle](https://leetcode.com/problems/unique-paths-ii/submissions/)
    15. [word-break](https://leetcode.com/problems/word-break/submissions/)
-   16. [Shortest Bridge](https://leetcode.com/problems/shortest-bridge/discuss/1510811/100-faster-python-3-solution-using-double-bfs-(I-didn't-understand-why-it's-the-fastest-))
+   16. [Shortest Bridge](https://leetcode.com/problems/shortest-bridge/submissions/) 🔯
 
 ## Dijkistras Algorithm
    14. [Dijkistras Algorithm](https://github.com/MeSabya/LeetCodeProgramsInPython/blob/master/Graph/Dijkistras.md)
