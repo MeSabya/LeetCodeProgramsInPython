@@ -170,18 +170,19 @@
 3. [Sum of Path Numbers (medium)]()
 4. [Path With Given Sequence (medium)]()
 5. [Count Paths for a Sum (medium)]()
-7. [Path with Maximum Sum (hard)]()
-8. [Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/submissions/)
-10. Same Tree
-12. Construct Binary Tree from Preorder and Inorder Traversal
-13. Path Sum
-14. [Path Sum II](https://leetcode.com/problems/path-sum-ii/)
-15. Implement Trie (Prefix Tree)
-16. Word Search II
-18. Lowest Common Ancestor of a Binary Tree
-21. Serialize and Deserialize Binary Tree
-22. [Path Sum III](https://github.com/MeSabya/LeetCodeProgramsInPython/blob/master/Tree%20Problems/Path%20Sum%20III.md)
-23. [find-duplicate-subtrees](https://leetcode.com/problems/find-duplicate-subtrees/discuss/387417/easy-peasy-recursive-preorder-solution)
+6. [Path with Maximum Sum (hard)]()
+7. [Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/submissions/)
+8. Same Tree
+9. Construct Binary Tree from Preorder and Inorder Traversal
+10. Path Sum
+11. [Path Sum II](https://leetcode.com/problems/path-sum-ii/)
+12. Implement Trie (Prefix Tree)
+13. Word Search II
+14. Lowest Common Ancestor of a Binary Tree
+15. Serialize and Deserialize Binary Tree
+16. [Path Sum III](https://github.com/MeSabya/LeetCodeProgramsInPython/blob/master/Tree%20Problems/Path%20Sum%20III.md)
+17. [find-duplicate-subtrees](https://leetcode.com/problems/find-duplicate-subtrees/discuss/387417/easy-peasy-recursive-preorder-solution)
+18. [all-nodes-distance-k-in-binary-tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/submissions/)
 
 ##### Reference
 https://igotanoffer.com/blogs/tech/tree-interview-questions
