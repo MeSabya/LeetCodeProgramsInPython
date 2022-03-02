@@ -151,6 +151,8 @@
    2. [Minimum Depth of a Binary Tree]()
    3. [Connect Level Order Siblings]()
    4. [DeleteNodesAndReturnForest](https://github.com/MeSabya/LeetCodeProgramsInPython/blob/master/Tree%20Problems/DeleteNodesAndReturnForest.md)
+   5. [all-nodes-distance-k-in-binary-tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/submissions/)
+   6. 
 ## Tree Depth First Search
 ### Easy
 1. [symmetric-tree](https://leetcode.com/problems/symmetric-tree/)
@@ -182,7 +184,7 @@
 15. Serialize and Deserialize Binary Tree
 16. [Path Sum III](https://github.com/MeSabya/LeetCodeProgramsInPython/blob/master/Tree%20Problems/Path%20Sum%20III.md)
 17. [find-duplicate-subtrees](https://leetcode.com/problems/find-duplicate-subtrees/discuss/387417/easy-peasy-recursive-preorder-solution)
-18. [all-nodes-distance-k-in-binary-tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/submissions/)
+18. 
 
 ##### Reference
 https://igotanoffer.com/blogs/tech/tree-interview-questions
