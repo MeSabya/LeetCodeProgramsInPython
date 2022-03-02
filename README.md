@@ -180,7 +180,7 @@
 16. Word Search II
 18. Lowest Common Ancestor of a Binary Tree
 21. Serialize and Deserialize Binary Tree
-22. Path Sum III
+22. [Path Sum III](https://github.com/MeSabya/LeetCodeProgramsInPython/blob/master/Tree%20Problems/Path%20Sum%20III.md)
 23. [find-duplicate-subtrees](https://leetcode.com/problems/find-duplicate-subtrees/discuss/387417/easy-peasy-recursive-preorder-solution)
 
 ##### Reference
