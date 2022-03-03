@@ -152,7 +152,7 @@
    3. [Connect Level Order Siblings]()
    4. [DeleteNodesAndReturnForest](https://github.com/MeSabya/LeetCodeProgramsInPython/blob/master/Tree%20Problems/DeleteNodesAndReturnForest.md)
    5. [all-nodes-distance-k-in-binary-tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/submissions/)
-   6. 
+   6. [Check completeness of a Btree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/submissions/)
 ## Tree Depth First Search
 ### Easy
 1. [symmetric-tree](https://leetcode.com/problems/symmetric-tree/)
