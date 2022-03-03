@@ -173,7 +173,7 @@
 1. [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/discuss/41383/Python-solutions-(dfs%2Bstack-bfs%2Bqueue-dfs-recursively).)
 1. [All Paths for a Sum (medium)]()
 3. [Sum of Path Numbers (medium)]()
-4. [Path With Given Sequence (medium)]()
+4.
 5. [Count Paths for a Sum (medium)]()
 6. [Path with Maximum Sum (hard)]()
 7. [Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/submissions/)
