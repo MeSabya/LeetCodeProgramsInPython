@@ -153,6 +153,7 @@
    4. [DeleteNodesAndReturnForest](https://github.com/MeSabya/LeetCodeProgramsInPython/blob/master/Tree%20Problems/DeleteNodesAndReturnForest.md)
    5. [all-nodes-distance-k-in-binary-tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/submissions/)
    6. [Check completeness of a Btree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/submissions/)
+   7. [invert-binary-tree](https://leetcode.com/problems/invert-binary-tree/)
 ## Tree Depth First Search
 ### Easy
 1. [symmetric-tree](https://leetcode.com/problems/symmetric-tree/)
@@ -166,6 +167,7 @@
 9. [balanced-binary-tree](https://leetcode.com/problems/balanced-binary-tree/submissions/)
 10.[sum-of-root-to-leaf-binary-numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/discuss/1681814/Python-Simple-DFS-approach)
 11.[kth-smallest-element-in-a-bst](https://leetcode.com/problems/kth-smallest-element-in-a-bst/submissions/)
+12.[binary-tree-paths/](https://leetcode.com/problems/binary-tree-paths/)
 
 ### Medium
 1. [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/discuss/41383/Python-solutions-(dfs%2Bstack-bfs%2Bqueue-dfs-recursively).)
