@@ -164,7 +164,8 @@
 7. [path-sum](https://leetcode.com/problems/path-sum/submissions/)
 8. [subtree-of-another-tree](https://leetcode.com/problems/subtree-of-another-tree/discuss/265239/Python-Easy-to-Understand)
 9. [balanced-binary-tree](https://leetcode.com/problems/balanced-binary-tree/submissions/)
-10.[sum-of-root-to-leaf-binary-numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/discuss/1681814/Python-Simple-DFS-approach) 
+10.[sum-of-root-to-leaf-binary-numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers/discuss/1681814/Python-Simple-DFS-approach)
+11.[kth-smallest-element-in-a-bst](https://leetcode.com/problems/kth-smallest-element-in-a-bst/submissions/)
 
 ### Medium
 1. [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/discuss/41383/Python-solutions-(dfs%2Bstack-bfs%2Bqueue-dfs-recursively).)
