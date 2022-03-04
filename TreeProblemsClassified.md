@@ -1,6 +1,6 @@
 ## PostOrder Tarversal 
 1. [Diameter of a Binary tree](https://leetcode.com/problems/diameter-of-binary-tree/)
-2. [distribute-coins-in-binary-tree](https://leetcode.com/problems/distribute-coins-in-binary-tree/)
+2. [distribute-coins-in-binary-tree](https://leetcode.com/problems/distribute-coins-in-binary-tree/submissions/)
 
 
 ## Inorder Traversal 
