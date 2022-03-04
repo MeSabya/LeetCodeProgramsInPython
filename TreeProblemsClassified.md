@@ -1,6 +1,7 @@
 ## PostOrder Tarversal 
 1. [Diameter of a Binary tree](https://leetcode.com/problems/diameter-of-binary-tree/)
 2. [distribute-coins-in-binary-tree](https://github.com/MeSabya/LeetCodeProgramsInPython/blob/master/Tree%20Problems/Distribute%20coins%20in%20Binary%20Tree.md)
+3. [house-robber-iii](https://leetcode.com/problems/house-robber-iii/submissions/)
 
 
 ## Inorder Traversal 
