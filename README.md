@@ -217,6 +217,9 @@ https://igotanoffer.com/blogs/tech/tree-interview-questions
       [combination-sum](https://leetcode.com/problems/combination-sum/discuss/632799/Three-Python-solutions-(DPBFSBacktrack)-with-explanation.-Time-beats-~88)
 ## Fibonacci Number Pattern
 1. [house-robber](https://leetcode.com/problems/house-robber/submissions/)
+2. [house-robber in circle](https://leetcode.com/problems/house-robber-ii/discuss/427939/Very-simple-DP-explanation-using-Python)
+3. [house rubber in tree](https://leetcode.com/problems/house-robber-iii/)
+4. 
 ## DP Problems Palindromic Subsequence
    1. [palindrome-partitioning](https://leetcode.com/problems/palindrome-partitioning/) 
 ## Longest Common Substring
