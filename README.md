@@ -154,6 +154,7 @@
    5. [all-nodes-distance-k-in-binary-tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/submissions/)
    6. [Check completeness of a Btree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/submissions/)
    7. [invert-binary-tree](https://leetcode.com/problems/invert-binary-tree/)
+   8. [the distance of the nearest 0 for each cell](https://leetcode.com/problems/01-matrix/submissions/)
 ## Tree Depth First Search
 ### Easy
 1. [symmetric-tree](https://leetcode.com/problems/symmetric-tree/)
