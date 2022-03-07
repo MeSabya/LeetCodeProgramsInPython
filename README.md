@@ -232,7 +232,7 @@ https://igotanoffer.com/blogs/tech/tree-interview-questions
 
 ## Stock buy and sell problems 
 1. [best-time-to-buy-and-sell-stock-ii](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/discuss/1498050/Python-or-very-simple-or-short-readable-code-or-picture)
-2. [Best Time to Buy and Sell Stock with Transaction Fee]()
+2. [Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/submissions/)
 3. [https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/]
 4. 
 ## Graph Problems 
