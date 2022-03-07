@@ -229,6 +229,12 @@ https://igotanoffer.com/blogs/tech/tree-interview-questions
 ## Longest Increasing Subsequence
    1. [LIS](https://leetcode.com/problems/longest-increasing-subsequence/submissions/)
    2. [russian-doll-envelopes](https://leetcode.com/problems/russian-doll-envelopes/submissions/)
+
+## Stock buy and sell problems 
+1. [best-time-to-buy-and-sell-stock-ii](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/discuss/1498050/Python-or-very-simple-or-short-readable-code-or-picture)
+2. [Best Time to Buy and Sell Stock with Transaction Fee]()
+3. [https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/]
+4. 
 ## Graph Problems 
    1. [Detect-cycle-in-a-directed-graph](https://www.geeksforgeeks.org/detect-cycle-in-a-directed-graph-using-bfs/?ref=rp)
    2. [Max-area-of-island](https://leetcode.com/problems/max-area-of-island/discuss/425540/Python-3-Clean-and-easy-to-understand-dfs-approach)
