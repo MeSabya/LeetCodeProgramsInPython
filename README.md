@@ -83,7 +83,8 @@
    41. Function to find Number of customers who could not get a computer
    42. Transform One String to Another using Minimum Number of Given Operation
    43. Check if two given strings are isomorphic to each other
-   44. Recursively print all sentences that can be formed from list of word lists
+   44. Recursively print all sentences that can be formed from list of word lists.
+   45. [longest-duplicate-substring](https://leetcode.com/problems/longest-duplicate-substring/discuss/1548786/Python-or-Sliding-Window-or-Simplest-Solution-With-Explanation)
 
 ## Stack Problems
    1. [Remove K Digits](https://leetcode.com/problems/remove-k-digits/)
