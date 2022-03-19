@@ -224,7 +224,8 @@ https://igotanoffer.com/blogs/tech/tree-interview-questions
 3. [house rubber in tree](https://leetcode.com/problems/house-robber-iii/submissions/)
 4. 
 ## DP Problems Palindromic Subsequence
-   1. [palindrome-partitioning](https://leetcode.com/problems/palindrome-partitioning/) 
+   1. [palindrome-partitioning](https://leetcode.com/problems/palindrome-partitioning/discuss/42100/Python-easy-to-understand-backtracking-solution) 
+   2. 
 ## Longest Common Substring
 
 ## Longest Increasing Subsequence
