@@ -39,7 +39,7 @@
    20. [Maximum Sum Circular subarray](https://github.com/MeSabya/LeetCodeProgramsInPython/blob/master/ArrayProblems/3.%20Maximum%20Circular%20Subarray%20Sum.md)
    21. [Maximum Product Sub Array](https://github.com/MeSabya/LeetCodeProgramsInPython/blob/master/ArrayProblems/4.%20MaximumProductSubArr.md)
 
-## String Prolems
+## String Problems
    1. [Count Pallindromes](https://github.com/MeSabya/LeetCodeProgramsInPython/blob/master/StringProblems/CountPallindromes.md)
    2. [String Interleaving](https://leetcode.com/problems/interleaving-string/submissions/)
    3. [next-greater-element-iii](https://leetcode.com/problems/next-greater-element-iii/submissions/)
@@ -129,9 +129,9 @@
    6. Find all common elements present in each row of a matrix
    7. Find duplicate rows in a binary matrix
    8. [Sort Matrix Diagonally](https://leetcode.com/problems/sort-the-matrix-diagonally/submissions/)
-   9. Search an element in a matriix
+   9. [Search an element in a matrix](https://leetcode.com/problems/search-a-2d-matrix-ii/submissions/)
    10. Find median in a row wise sorted matrix
-   11. Find row with maximum no. of 1's
+   11. [Find row with maximum no. of 1's](https://www.techiedelight.com/find-index-row-containing-maximum-number-1s-matrix/)
    12. Print elements in sorted order using row-column wise sorted matrix
    13. Maximum size rectangle
    14. Find a specific pair in matrix
