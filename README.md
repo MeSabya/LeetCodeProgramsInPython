@@ -2,6 +2,7 @@
    1. [30-days-interview-preparation-plan-200-best-coding-questions-and-behavioural-interviews](https://ganeshpr227.medium.com/30-days-interview-preparation-plan-200-best-coding-questions-and-behavioural-interviews-3f8fc19c2361#a4b2)
    2. [List of Leetcode Programs](https://gist.github.com/krishnadey30/88c4e2f601e96597974c00185e479532)
    3. [some-patterns-dfs](https://iorilan.medium.com/after-finished-1000-leetcode-medium-level-i-found-some-patterns-dfs-77e584425474)  
+   4. [top-50-dynamic-programming-practice-problems](https://medium.com/techie-delight/top-50-dynamic-programming-practice-problems-4208fed71aa3)
    
    [Behavioral Based Job Interview Questions1](https://www.thebalancecareers.com/top-behavioral-interview-questions-2059618)
    
