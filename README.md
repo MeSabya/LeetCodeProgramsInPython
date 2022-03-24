@@ -213,6 +213,10 @@ https://igotanoffer.com/blogs/tech/tree-interview-questions
 ## Bitwise XOR
 ## Top ‘K’ Elements
 ## K-way Merge
+
+## Jump Game
+1. [jump-game-ii](https://leetcode.com/problems/jump-game-ii/submissions/)
+2. [jump Game- III](https://leetcode.com/problems/jump-game-iii/discuss/1101073/Python-DFS-solution)
 ## 0/1 Knapsack
    1. [SubsetProblemsList](https://github.com/MeSabya/LeetCodeProgramsInPython/blob/master/DynamicProgrammingPattern/0-1KnapSackPattern/BoundedKnapsack.md#subsetsum-problem)
 ## Unbounded Knapsack
