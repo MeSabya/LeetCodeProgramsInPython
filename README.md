@@ -192,7 +192,7 @@
 15. Serialize and Deserialize Binary Tree
 16. [Path Sum III](https://github.com/MeSabya/LeetCodeProgramsInPython/blob/master/Tree%20Problems/Path%20Sum%20III.md)
 17. [find-duplicate-subtrees](https://leetcode.com/problems/find-duplicate-subtrees/discuss/387417/easy-peasy-recursive-preorder-solution)
-18. 
+18. [Sink-zeroes-in-a-Binary-Tree](https://leetcode.com/discuss/interview-question/506608/Sink-zeroes-in-a-Binary-Tree)
 
 ##### Reference
 https://igotanoffer.com/blogs/tech/tree-interview-questions
