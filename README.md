@@ -173,6 +173,7 @@
 11.[kth-smallest-element-in-a-bst](https://leetcode.com/problems/kth-smallest-element-in-a-bst/submissions/)
 12.[binary-tree-paths/](https://leetcode.com/problems/binary-tree-paths/)
 13.[LCA](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/discuss/519429/Python-O(n)-sol-by-DFS.-w-Hint-and-Explanation)
+14.[construct-binary-search-tree-from-preorder-traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/)
 
 ### Medium
 1. [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/discuss/41383/Python-solutions-(dfs%2Bstack-bfs%2Bqueue-dfs-recursively).)
