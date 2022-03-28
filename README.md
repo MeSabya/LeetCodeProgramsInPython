@@ -199,6 +199,7 @@
 17. [find-duplicate-subtrees](https://leetcode.com/problems/find-duplicate-subtrees/discuss/387417/easy-peasy-recursive-preorder-solution)
 18. [Sink-zeroes-in-a-Binary-Tree](https://leetcode.com/discuss/interview-question/506608/Sink-zeroes-in-a-Binary-Tree)
 19. [trim-a-binary-search-tree](https://leetcode.com/problems/trim-a-binary-search-tree/submissions/)
+20. [find-duplicate-subtrees](https://leetcode.com/problems/find-duplicate-subtrees/submissions/)
 
 ##### Reference
 https://igotanoffer.com/blogs/tech/tree-interview-questions
