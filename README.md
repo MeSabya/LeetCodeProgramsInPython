@@ -99,7 +99,10 @@
    8. [longest-valid-parentheses](https://leetcode.com/problems/longest-valid-parentheses/discuss/14284/8-line-Python-solution-stack-80ms)
    9. [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/discuss/372675/Three-simple-approaches)
    10.[asteroid-collision](https://leetcode.com/problems/asteroid-collision/submissions/)
-   
+
+## Solving Basic Calculator I, II, III on leetcode
+   1. [Solving Basic Calculator I, II, III on leetcode](https://medium.com/@CalvinChankf/solving-basic-calculator-i-ii-iii-on-leetcode-74d926732437)
+   2. 
 ## Sliding Window
    1. [Longest Substring with K Distinct Characters](https://github.com/MeSabya/LeetCodeProgramsInPython/tree/master/SlidingWindowPattern/LongestSubstrWithMaxKDistinctChars)
    2. [Fruits into Baskets]()
