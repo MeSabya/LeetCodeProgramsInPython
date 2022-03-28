@@ -141,6 +141,7 @@
    13. Maximum size rectangle
    14. Find a specific pair in matrix
    15. Kth smallest element in a row-cpumn wise sorted matrix
+   16. [maximal-square](https://leetcode.com/problems/maximal-square/submissions/) ⭐
 
 ## Binary Search Trees
    1. [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/discuss/712307/Python3-sharing-two-solutions-with-thought-process-(in-order-traversal-and-recurse-left))
