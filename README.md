@@ -102,13 +102,19 @@
 
 ## Solving Basic Calculator I, II, III on leetcode
    1. [Solving Basic Calculator I, II, III on leetcode](https://medium.com/@CalvinChankf/solving-basic-calculator-i-ii-iii-on-leetcode-74d926732437)
-   2. 
+
+
+## Prefix Sum
+1. [Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/discuss/1388564/oror-C%2B%2B-oror-Crystal-Clear-Solution-oror-PREFIX-SUM-oror-Explanation-oror-O(N)-time-using-Map)
+2. [Range sum Query](https://leetcode.com/problems/range-sum-query-immutable/)
+3. 
 ## Sliding Window
    1. [Longest Substring with K Distinct Characters](https://github.com/MeSabya/LeetCodeProgramsInPython/tree/master/SlidingWindowPattern/LongestSubstrWithMaxKDistinctChars)
    2. [Fruits into Baskets](https://leetcode.com/problems/fruit-into-baskets/)
    3. [Permutation in a String]()
    4. [longest-substring-without-repeating-characters](https://github.com/MeSabya/LeetCodeProgramsInPython/blob/master/SlidingWindowPattern/longest-substring-without-repeating-characters.py)
    5. [minimum-window-substring](https://leetcode.com/problems/minimum-window-substring/submissions/)
+   6. [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)
 ## Two Pointers
    1. [Squaring a Sorted Array]()
    2. [Dutch National Flag Problem]()
