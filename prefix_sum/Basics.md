@@ -27,5 +27,7 @@ From the prefix sum array we only have following data:
 So we only have prefix sum data for a range where start range is always 0 and the end range can be any value < len(input array).
 So when we are given a range where start element is a non zero value , we should break the given range to a equation which can be represented with a range where start element can be 0.
 
+## Example :
 
+[range-sum-query-immutable](https://leetcode.com/problems/range-sum-query-immutable/submissions/)
 
