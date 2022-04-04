@@ -105,9 +105,10 @@
 
 
 ## Prefix Sum
-1. [Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/discuss/1388564/oror-C%2B%2B-oror-Crystal-Clear-Solution-oror-PREFIX-SUM-oror-Explanation-oror-O(N)-time-using-Map)
-2. [Range sum Query](https://leetcode.com/problems/range-sum-query-immutable/)
-3. 
+1. [range-sum-query-immutable](https://github.com/MeSabya/LeetCodeProgramsInPython/tree/master/prefix_sum)
+2. [Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/discuss/1388564/oror-C%2B%2B-oror-Crystal-Clear-Solution-oror-PREFIX-SUM-oror-Explanation-oror-O(N)-time-using-Map)
+3. [Range sum Query](https://leetcode.com/problems/range-sum-query-immutable/)
+4. 
 ## Sliding Window
    1. [Longest Substring with K Distinct Characters](https://github.com/MeSabya/LeetCodeProgramsInPython/tree/master/SlidingWindowPattern/LongestSubstrWithMaxKDistinctChars)
    2. [Fruits into Baskets](https://leetcode.com/problems/fruit-into-baskets/)
