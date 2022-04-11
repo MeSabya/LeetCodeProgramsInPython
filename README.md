@@ -231,6 +231,7 @@ https://igotanoffer.com/blogs/tech/tree-interview-questions
 ## Bitwise XOR
 ## Top ‘K’ Elements
 ## K-way Merge
+1. [kth-smallest-element-in-a-sorted-matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/submissions/)
 
 ## Kadanes Algo
 [Explanation](https://github.com/MeSabya/LeetCodeProgramsInPython/blob/master/KadanesAlgo/Basics.md)
