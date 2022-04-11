@@ -7,6 +7,7 @@
 5. [Search in a Bitonic Array](https://www.educative.io/courses/grokking-the-coding-interview/7n3BlOvqW0r)
 6. [Find Peak Element](https://leetcode.com/problems/find-peak-element/)
 7. [shortest-distance-to-target-color](https://www.goodtecher.com/leetcode-1182-shortest-distance-to-target-color/)
+8. [find-k-closest-elements](https://leetcode.com/problems/find-k-closest-elements/submissions/)
 
 # Modified Binary Search Problems List  
 1. ⚓[find-minimum-in-rotated-sorted-array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/submissions/)
