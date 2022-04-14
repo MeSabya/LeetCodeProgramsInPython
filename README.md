@@ -79,16 +79,16 @@
    32. Find the longest common subsequence between two strings.
    33. Program to generate all possible valid IP addresses from given  string.
    34. Write a program tofind the smallest window that contains all characters of string itself.
-   35. Rearrange characters in a string such that no two adjacent are same
+   35. [Rearrange characters in a string such that no two adjacent are same](https://leetcode.com/problems/reorganize-string/)
    36. Minimum characters to be added at front to make string palindrome
    37. Given a sequence of words, print all anagrams together
    38. Find the smallest window in a string containing all characters of another string
-   39. Recursively remove all adjacent duplicates
+   39. [remove-all-adjacent-duplicates-in-string-ii](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/submissions/)
    40. String matching where one string contains wildcard characters
    41. Function to find Number of customers who could not get a computer
    42. Transform One String to Another using Minimum Number of Given Operation
    43. Check if two given strings are isomorphic to each other
-   44. Recursively print all sentences that can be formed from list of word lists.
+   44. [Recursively print all sentences that can be formed from list of word lists](https://www.techiedelight.com/combinations-phrases-formed-picking-words-lists/)
    45. [longest-duplicate-substring](https://leetcode.com/problems/longest-duplicate-substring/discuss/1548786/Python-or-Sliding-Window-or-Simplest-Solution-With-Explanation)
 
 ## Stack Problems
