@@ -43,6 +43,7 @@
    20. [Maximum Sum Circular subarray](https://github.com/MeSabya/LeetCodeProgramsInPython/blob/master/ArrayProblems/3.%20Maximum%20Circular%20Subarray%20Sum.md)
    21. [Maximum Product Sub Array](https://github.com/MeSabya/LeetCodeProgramsInPython/blob/master/ArrayProblems/4.%20MaximumProductSubArr.md)
    22. [Kadanes Algo](https://leetcode.com/problems/maximum-subarray/discuss/1099443/PYTHON-EASY-SOLUTION-FASTER-THAN-99.56-of-Python3-online-submissions)
+   23. [rank-teams-by-votes](https://leetcode.com/problems/rank-teams-by-votes/submissions/)
 
 ## String Problems
    1. [Count Pallindromes](https://github.com/MeSabya/LeetCodeProgramsInPython/blob/master/StringProblems/CountPallindromes.md)
