@@ -1,3 +1,5 @@
+
+```python
 import collections
 import heapq
 
@@ -46,3 +48,4 @@ print(twitter.getNewsFeed(1))
 twitter.follow(1, 2)
 twitter.postTweet(2, 6)
 print(twitter.getNewsFeed(1))
+```
