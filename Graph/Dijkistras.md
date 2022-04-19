@@ -26,21 +26,16 @@ def dijkstra(graph, s):
 
     while min_heap:
         # pop the vertex with the minimum distance
-        _, u = heapq.heappop(min_heap)
-        # skip if the vertex has already been visited
-        if u in visited:
-            continue
-        visited.add(u)
+        _, u = heapq.heappop(min_heap)       
 
-        for v, weight in graph[u]:
-            if v not in visited:
-                # If there is shorted path from s to v through u.
-                # s -> u -> v
-                if dist[v] > (dist[u] + weight):
-                    # Updating distance of v
-                    dist[v] = dist[u] + weight
-                    # insert to the queue
-                    heapq.heappush(min_heap, (dist[v], v))
+        for v, weight in graph[u]:          
+            # If there is shorted path from s to v through u.
+            # s -> u -> v
+            if dist[v] > (dist[u] + weight):
+                # Updating distance of v
+                dist[v] = dist[u] + weight
+                # insert to the queue
+                heapq.heappush(min_heap, (dist[v], v))
 
     return dist
 ```
