@@ -45,6 +45,7 @@
    22. [Kadanes Algo](https://leetcode.com/problems/maximum-subarray/discuss/1099443/PYTHON-EASY-SOLUTION-FASTER-THAN-99.56-of-Python3-online-submissions)
    23. [rank-teams-by-votes](https://leetcode.com/problems/rank-teams-by-votes/submissions/)
    24. [Sort in Wave form](https://www.geeksforgeeks.org/sort-array-wave-form-2/)
+   25. [gas-station](https://leetcode.com/problems/gas-station/submissions/)
 
 ## String Problems
    1. [Count Pallindromes](https://github.com/MeSabya/LeetCodeProgramsInPython/blob/master/StringProblems/CountPallindromes.md)
