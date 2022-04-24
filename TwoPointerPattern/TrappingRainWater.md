@@ -39,4 +39,5 @@ def trap(self, height: List[int]) -> int:
         return rain_water
         
 ```
-
+### trapping-rainwaterlc42-vs-container-with-most-waterlc11-image-explanation
+https://leetcode.com/problems/container-with-most-water/discuss/1564388/trapping-rainwaterlc42-vs-container-with-most-waterlc11-image-explanation
