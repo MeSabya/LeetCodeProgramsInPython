@@ -51,9 +51,11 @@ Here is the explanation: When height[i] < height[j], we don’t need to calculat
 Let’s understand it via comparing the area for (i, j) and (i, j-1).
 
 A = Area for pair (i, j) = (j — i) * min (height[i], height[j]) = (j — i) * height[i]
+
 A’ = Area for pair (i, j-1) = (j — 1 — i) * min (height[i], height[j-1])
 
 if(height[i] < height[j-1]) => A’ = (j — 1 — i) * min (height[i], height[j-1]) = (j — 1 — i) * height[i] < (j — i) * height[i] = A
+
 if(height[i] > height[j-1]) => A’ = (j — 1 — i) * min (height[i], height[j-1]) = (j — 1 — i) * height[j-1] < (j — i) * height[i] = A’
 
 So overall, A’< A. When A’<A, then all the area between the pairs (i, j-2), (i, j-3),…will be automatically less than A. In other words, we don’t need to calculate the area between the pairs (i, j-2), (i, j-3), etc. That’s why we move the left pointer i to one right in the search of a larger area than A.
