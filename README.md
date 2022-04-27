@@ -19,6 +19,7 @@
 2. [reverse-nodes-in-k-group](https://leetcode.com/problems/reverse-nodes-in-k-group/submissions/)
 3. [linked-list-cycle-origin](https://leetcode.com/problems/linked-list-cycle-ii/)
 4. [design-browser-history](https://leetcode.com/problems/design-browser-history/)
+5. [partition-list](https://leetcode.com/problems/partition-list/discuss/29174/Python-concise-solution-with-dummy-nodes.)
 
 ## Array Problems 
    1. First Missing Positive
