@@ -20,6 +20,7 @@
 3. [linked-list-cycle-origin](https://leetcode.com/problems/linked-list-cycle-ii/)
 4. [design-browser-history](https://leetcode.com/problems/design-browser-history/)
 5. [partition-list](https://leetcode.com/problems/partition-list/discuss/29174/Python-concise-solution-with-dummy-nodes.)
+6. [Sort a list](https://leetcode.com/problems/sort-list/discuss/1428579/python-merge-sort-time-O(NlgN)-space-O(1))
 
 ## Array Problems 
    1. First Missing Positive
