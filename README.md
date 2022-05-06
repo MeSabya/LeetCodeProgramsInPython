@@ -308,3 +308,5 @@ https://igotanoffer.com/blogs/tech/tree-interview-questions
    4. [Number-of-operations-to-make-network-connected](https://leetcode.com/problems/number-of-operations-to-make-network-connected/discuss/1631752/Python-Union-Find-solution-with-Comments-Explanation)
    5. [Number of Provinces](https://leetcode.com/problems/number-of-provinces/discuss/303150/python-union-find-dfs-bfs)
 
+## Trie
+1. [implement-trie-prefix-tree](https://leetcode.com/problems/implement-trie-prefix-tree/discuss/943448/Python-Simple-TrieNode-and-Trie-Implementation)
