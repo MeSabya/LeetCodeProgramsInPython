@@ -49,6 +49,7 @@
    23. [rank-teams-by-votes](https://leetcode.com/problems/rank-teams-by-votes/submissions/)
    24. [Sort in Wave form](https://www.geeksforgeeks.org/sort-array-wave-form-2/)
    25. [gas-station](https://leetcode.com/problems/gas-station/submissions/)
+   26. [maximum-difference-between-two-elements](https://www.enjoyalgorithms.com/blog/maximum-difference-between-two-elements)
 
 ## String Problems
    1. [Count Pallindromes](https://github.com/MeSabya/LeetCodeProgramsInPython/blob/master/StringProblems/CountPallindromes.md)
