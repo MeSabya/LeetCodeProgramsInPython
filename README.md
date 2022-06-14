@@ -122,7 +122,7 @@
 ## Sliding Window
    1. [Longest Substring with K Distinct Characters](https://github.com/MeSabya/LeetCodeProgramsInPython/tree/master/SlidingWindowPattern/LongestSubstrWithMaxKDistinctChars)
    2. [Fruits into Baskets](https://leetcode.com/problems/fruit-into-baskets/)
-   3. [Permutation in a String]()
+   3. [Permutation in a String](https://github.com/MeSabya/LeetCodeProgramsInPython/tree/master/SlidingWindowPattern/PermutationInAString)
    4. [longest-substring-without-repeating-characters](https://github.com/MeSabya/LeetCodeProgramsInPython/blob/master/SlidingWindowPattern/longest-substring-without-repeating-characters.py)
    5. [minimum-window-substring](https://leetcode.com/problems/minimum-window-substring/submissions/)
    6. [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)
@@ -132,7 +132,8 @@
    3. [Minimum Window Sort]()
    4. [ContainerWithMostWater](https://github.com/MeSabya/LeetCodeProgramsInPython/blob/master/TwoPointerPattern/ContainerWithMostWater.md)
    5. [TrappingRainWater](https://github.com/MeSabya/LeetCodeProgramsInPython/blob/master/TwoPointerPattern/TrappingRainWater.md)
-   6. 
+   6. [SubArraysProductLessThanTarget](https://github.com/MeSabya/LeetCodeProgramsInPython/blob/master/TwoPointerPattern/SubArraysProductLessThanTarget.py)
+   7. 
 ## Fast & Slow Pointers
    1. [Middle of the LinkedList]()
    2. [Happy Number]()
