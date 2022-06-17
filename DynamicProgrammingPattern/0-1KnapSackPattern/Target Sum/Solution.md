@@ -1,4 +1,4 @@
-This problem follows the 0/1 Knapsack pattern and can be converted into ***Count of Subset Sum***. Let’s dig into this.
+This problem follows the 0/1 Knapsack pattern and can be converted into ***[Count of Subset Sum](https://github.com/MeSabya/LeetCodeProgramsInPython/tree/master/DynamicProgrammingPattern/0-1KnapSackPattern/Count%20of%20Subset%20Sum#given-a-set-of-positive-numbers-find-the-total-number-of-subsets-whose-sum-is-equal-to-a-given-number-s)***. Let’s dig into this.
 
 We are asked to find two subsets of the given numbers whose difference is equal to the given target ‘S’. Take the first example above. As we saw, one solution is {+1-1-2+3}. So, the two subsets we are asked to find are {1, 3} & {1, 2} because,
 
