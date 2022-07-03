@@ -8,6 +8,7 @@
 6. [Find Peak Element](https://leetcode.com/problems/find-peak-element/)
 7. [shortest-distance-to-target-color](https://www.goodtecher.com/leetcode-1182-shortest-distance-to-target-color/)
 8. [find-k-closest-elements](https://leetcode.com/problems/find-k-closest-elements/submissions/)
+9. [koko-eating-bananas](https://leetcode.com/problems/koko-eating-bananas/discuss/885073/Python-Binsearch-%2B-Comments)
 
 # Modified Binary Search Problems List  
 1. ⚓[find-minimum-in-rotated-sorted-array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/submissions/)
