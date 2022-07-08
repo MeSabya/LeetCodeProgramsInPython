@@ -9,6 +9,8 @@ https://leetcode.com/problems/path-sum-iii/
 
 ## Explanation:
 
+we can use the pre-order tree traversal to calculate the path sum for each tree node. In a pre-order traversal, we first visit the root node. Then, we visit the left and right subtrees. Therefore, we can guarantee a downward path between any two nodes in a pre-order traversal sequence. For example, the pre-order path sum sequence of the example binary tree is:
+
 ```
         Maintein a pre sum array while DFS
                      10[10]
