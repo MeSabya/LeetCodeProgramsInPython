@@ -218,6 +218,7 @@
 18. [Sink-zeroes-in-a-Binary-Tree](https://leetcode.com/discuss/interview-question/506608/Sink-zeroes-in-a-Binary-Tree)
 19. [trim-a-binary-search-tree](https://leetcode.com/problems/trim-a-binary-search-tree/submissions/)
 20. [find-duplicate-subtrees](https://leetcode.com/problems/find-duplicate-subtrees/submissions/)
+21. [binary-tree-maximum-path-sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/submissions/)
 
 ##### Reference
 https://igotanoffer.com/blogs/tech/tree-interview-questions
