@@ -219,6 +219,7 @@
 19. [trim-a-binary-search-tree](https://leetcode.com/problems/trim-a-binary-search-tree/submissions/)
 20. [find-duplicate-subtrees](https://leetcode.com/problems/find-duplicate-subtrees/submissions/)
 21. [binary-tree-maximum-path-sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/submissions/)
+22. [serialize-and-deserialize-binary-tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/submissions/)
 
 ##### Reference
 https://igotanoffer.com/blogs/tech/tree-interview-questions
