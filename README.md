@@ -212,14 +212,14 @@
 12. Implement Trie (Prefix Tree)
 13. Word Search II
 14. Lowest Common Ancestor of a Binary Tree
-15. Serialize and Deserialize Binary Tree
+15. [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/submissions/)
 16. [Path Sum III](https://github.com/MeSabya/LeetCodeProgramsInPython/blob/master/Tree%20Problems/Path%20Sum%20III.md)
 17. [find-duplicate-subtrees](https://leetcode.com/problems/find-duplicate-subtrees/discuss/387417/easy-peasy-recursive-preorder-solution)
 18. [Sink-zeroes-in-a-Binary-Tree](https://leetcode.com/discuss/interview-question/506608/Sink-zeroes-in-a-Binary-Tree)
 19. [trim-a-binary-search-tree](https://leetcode.com/problems/trim-a-binary-search-tree/submissions/)
 20. [find-duplicate-subtrees](https://leetcode.com/problems/find-duplicate-subtrees/submissions/)
 21. [binary-tree-maximum-path-sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/submissions/)
-22. [serialize-and-deserialize-binary-tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/submissions/)
+22. [check-binary-tree-is-min-heap](https://www.techiedelight.com/check-binary-tree-is-min-heap/)
 
 ##### Reference
 https://igotanoffer.com/blogs/tech/tree-interview-questions
