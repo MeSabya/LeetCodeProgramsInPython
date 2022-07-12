@@ -11,6 +11,7 @@
 9. [koko-eating-bananas](https://leetcode.com/problems/koko-eating-bananas/discuss/885073/Python-Binsearch-%2B-Comments)
 10. [capacity-to-ship-packages-within-d-days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/)
 11. [key-value-snapshot](https://github.com/MeSabya/LeetCodeProgramsInPython/blob/master/BinarySerach/key-value-snapshot.md)
+12. [find-the-maximum-element-in-an-array-which-is-first-increasing-and-then-decreasing](https://www.geeksforgeeks.org/find-the-maximum-element-in-an-array-which-is-first-increasing-and-then-decreasing/)
 
 # Modified Binary Search Problems List  
 1. ⚓[find-minimum-in-rotated-sorted-array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/submissions/)
