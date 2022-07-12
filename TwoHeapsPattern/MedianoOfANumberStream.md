@@ -3,6 +3,9 @@
 ```Lua
 The median is the middle value in an ordered integer list. If the size of the list is even, there is no middle value and the median is the mean of the two middle values.
 
+So a brute force solution could be to maintain a sorted list of all numbers inserted in the class so that we can efficiently return the median whenever required. Inserting a number in a sorted list will take O(N)
+time if there are ‘N’ numbers in the list. This insertion will be similar to the Insertion sort. Can we do better than this? Can we utilize the fact that we don’t need the fully sorted list - we are only interested in finding the middle element?
+
 For example, for arr = [2,3,4], the median is 3.
 For example, for arr = [2,3], the median is (2 + 3) / 2 = 2.5.
 Implement the MedianFinder class:
@@ -37,7 +40,7 @@ The best data structure that comes to mind to find the smallest or largest numbe
 
 1. We can store the first half of numbers (i.e., smallNumList) in a Max Heap. We should use a Max Heap as we are interested in knowing the largest number in the first half.
 2. We can store the second half of numbers (i.e., largeNumList) in a Min Heap, as we are interested in knowing the smallest number in the second half.
-3. Inserting a number in a heap will take O(logN)O(logN), which is better than the brute force approach.
+3. Inserting a number in a heap will take O(logN), which is better than the brute force approach.
 4. At any time, the median of the current list of numbers can be calculated from the top element of the two heaps.
 
 ```python
