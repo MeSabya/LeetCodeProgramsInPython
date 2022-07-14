@@ -218,6 +218,7 @@
 - [binary-tree-maximum-path-sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/submissions/)
 - [check-binary-tree-is-min-heap](https://www.techiedelight.com/check-binary-tree-is-min-heap/)
 - [smallest-string-starting-from-leaf](https://leetcode.com/problems/smallest-string-starting-from-leaf/discuss/1383626/Python-DFS-9-lines-with-comments)
+- [count-complete-tree-nodes](https://leetcode.com/problems/count-complete-tree-nodes/discuss/62073/Python-O(lgn)*O(lgn)-solution-with-comments.)
 
 
 ##### Reference
