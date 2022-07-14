@@ -198,25 +198,27 @@
 14.[construct-binary-search-tree-from-preorder-traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/)
 
 ### Medium
-1. [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/discuss/41383/Python-solutions-(dfs%2Bstack-bfs%2Bqueue-dfs-recursively).)
-3. [Sum of Path Numbers (medium)]()
-6. [Path with Maximum Sum (hard)](https://leetcode.com/problems/binary-tree-maximum-path-sum/)
-7. [Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/submissions/)
-8. Same Tree
-9. Construct Binary Tree from Preorder and Inorder Traversal
-10. Path Sum
-11. [All Paths for a Sum](https://leetcode.com/problems/path-sum-ii/)
-12. Implement Trie (Prefix Tree)
-13. Word Search II
-14. Lowest Common Ancestor of a Binary Tree
-15. [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/submissions/)
-16. [Count Paths for a Sum](https://github.com/MeSabya/LeetCodeProgramsInPython/blob/master/Tree%20Problems/Path%20Sum%20III.md)
-17. [find-duplicate-subtrees](https://leetcode.com/problems/find-duplicate-subtrees/discuss/387417/easy-peasy-recursive-preorder-solution)
-18. [Sink-zeroes-in-a-Binary-Tree](https://leetcode.com/discuss/interview-question/506608/Sink-zeroes-in-a-Binary-Tree)
-19. [trim-a-binary-search-tree](https://leetcode.com/problems/trim-a-binary-search-tree/submissions/)
-20. [find-duplicate-subtrees](https://leetcode.com/problems/find-duplicate-subtrees/submissions/)
-21. [binary-tree-maximum-path-sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/submissions/)
-22. [check-binary-tree-is-min-heap](https://www.techiedelight.com/check-binary-tree-is-min-heap/)
+- [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/discuss/41383/Python-solutions-(dfs%2Bstack-bfs%2Bqueue-dfs-recursively).)
+- [Sum of Path Numbers (medium)]()
+- [Path with Maximum Sum (hard)](https://leetcode.com/problems/binary-tree-maximum-path-sum/)
+- [Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/submissions/)
+- Same Tree
+- Construct Binary Tree from Preorder and Inorder Traversal
+- Path Sum
+- [All Paths for a Sum](https://leetcode.com/problems/path-sum-ii/)
+- Implement Trie (Prefix Tree)
+- Word Search II
+- Lowest Common Ancestor of a Binary Tree
+- [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/submissions/)
+- [Count Paths for a Sum](https://github.com/MeSabya/LeetCodeProgramsInPython/blob/master/Tree%20Problems/Path%20Sum%20III.md)
+- [find-duplicate-subtrees](https://leetcode.com/problems/find-duplicate-subtrees/discuss/387417/easy-peasy-recursive-preorder-solution)
+- [Sink-zeroes-in-a-Binary-Tree](https://leetcode.com/discuss/interview-question/506608/Sink-zeroes-in-a-Binary-Tree)
+- [trim-a-binary-search-tree](https://leetcode.com/problems/trim-a-binary-search-tree/submissions/)
+- [find-duplicate-subtrees](https://leetcode.com/problems/find-duplicate-subtrees/submissions/)
+- [binary-tree-maximum-path-sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/submissions/)
+- [check-binary-tree-is-min-heap](https://www.techiedelight.com/check-binary-tree-is-min-heap/)
+- [smallest-string-starting-from-leaf](https://leetcode.com/problems/smallest-string-starting-from-leaf/discuss/1383626/Python-DFS-9-lines-with-comments)
+
 
 ##### Reference
 https://igotanoffer.com/blogs/tech/tree-interview-questions
