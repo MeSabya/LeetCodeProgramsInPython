@@ -119,6 +119,7 @@
 2. [Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/discuss/1388564/oror-C%2B%2B-oror-Crystal-Clear-Solution-oror-PREFIX-SUM-oror-Explanation-oror-O(N)-time-using-Map)
 3.[Subarray sum Equals to K](https://github.com/MeSabya/LeetCodeProgramsInPython/blob/master/PrefixSum/Subarray%20Sum%20Equals%20K.md)
 4.[continuous-subarray-sum-divisible-by-k](https://github.com/MeSabya/LeetCodeProgramsInPython/blob/master/PrefixSum/Continuous%20Subarray%20Sum.md)
+
 ## Sliding Window
    1. [Longest Substring with K Distinct Characters](https://github.com/MeSabya/LeetCodeProgramsInPython/tree/master/SlidingWindowPattern/LongestSubstrWithMaxKDistinctChars)
    2. [Fruits into Baskets](https://leetcode.com/problems/fruit-into-baskets/)
@@ -126,6 +127,7 @@
    4. [longest-substring-without-repeating-characters](https://github.com/MeSabya/LeetCodeProgramsInPython/blob/master/SlidingWindowPattern/longest-substring-without-repeating-characters.py)
    5. [minimum-window-substring](https://leetcode.com/problems/minimum-window-substring/submissions/)
    6. [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)
+
 ## Two Pointers
    1. [Squaring a Sorted Array]()
    2. [Dutch National Flag Problem]()
@@ -134,10 +136,12 @@
    5. [TrappingRainWater](https://github.com/MeSabya/LeetCodeProgramsInPython/blob/master/TwoPointerPattern/TrappingRainWater.md)
    6. [SubArraysProductLessThanTarget](https://github.com/MeSabya/LeetCodeProgramsInPython/blob/master/TwoPointerPattern/SubArraysProductLessThanTarget.py)
    7. 
+
 ## Fast & Slow Pointers
    1. [Middle of the LinkedList]()
    2. [Happy Number]()
    3. [Cycle in a Circular Array]()
+
 ## Merge Intervals
    1. [Intervals Intersection]()
    2. [Conflicting Appointments]()
@@ -219,6 +223,7 @@
 - [check-binary-tree-is-min-heap](https://www.techiedelight.com/check-binary-tree-is-min-heap/)
 - [smallest-string-starting-from-leaf](https://leetcode.com/problems/smallest-string-starting-from-leaf/discuss/1383626/Python-DFS-9-lines-with-comments)
 - [count-complete-tree-nodes](https://leetcode.com/problems/count-complete-tree-nodes/discuss/62073/Python-O(lgn)*O(lgn)-solution-with-comments.)
+- [lowest-common-ancestor-of-a-binary-tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/discuss/1037162/Python-Easy-to-Understand)
 
 
 ##### Reference
