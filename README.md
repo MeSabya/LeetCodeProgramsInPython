@@ -97,6 +97,7 @@
    43. Check if two given strings are isomorphic to each other
    44. [Recursively print all sentences that can be formed from list of word lists](https://www.techiedelight.com/combinations-phrases-formed-picking-words-lists/)
    45. [longest-duplicate-substring](https://leetcode.com/problems/longest-duplicate-substring/discuss/1548786/Python-or-Sliding-Window-or-Simplest-Solution-With-Explanation)
+   46. [MyAtoi](https://leetcode.com/submissions/detail/785532975/)
 
 ## Stack Problems
    1. [Remove K Digits](https://leetcode.com/problems/remove-k-digits/)
