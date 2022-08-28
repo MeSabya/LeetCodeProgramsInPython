@@ -45,6 +45,11 @@ def find_max_cpu_load(jobs):
   jobs.sort(key=lambda x: x.start)
   max_cpu_load, current_cpu_load = 0, 0
   min_heap = []
+  
+  # Start with a job which has a smaller start time , we need to compare with a job which is going to finish first (smallest end time)
+  # If they don't overlap : 
+  #       Then will pop from heap , will update the maximum load
+  # If they overlap , then calculate the maximum load.    
 
   for j in jobs:
     # remove all the jobs that have ended
