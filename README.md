@@ -225,6 +225,7 @@
 - [check-binary-tree-is-min-heap](https://www.techiedelight.com/check-binary-tree-is-min-heap/)
 - [smallest-string-starting-from-leaf](https://leetcode.com/problems/smallest-string-starting-from-leaf/discuss/1383626/Python-DFS-9-lines-with-comments)
 - [count-complete-tree-nodes](https://leetcode.com/problems/count-complete-tree-nodes/discuss/62073/Python-O(lgn)*O(lgn)-solution-with-comments.)
+- [count-complete-tree-nodes Solution2](https://github.com/MeSabya/LeetCodeProgramsInPython/blob/master/Tree%20Problems/CountCompleteTreeNodes.md)
 - [lowest-common-ancestor-of-a-binary-tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/discuss/1037162/Python-Easy-to-Understand)
 
 
