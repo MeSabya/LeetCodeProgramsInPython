@@ -202,6 +202,7 @@
 13.[LCA in BST](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/discuss/519429/Python-O(n)-sol-by-DFS.-w-Hint-and-Explanation)
 14.[construct-binary-search-tree-from-preorder-traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/)
 15.[LCA in BTree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/submissions/)
+16.[count-good-nodes-in-binary-tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/)
 
 ### Medium
 - [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/discuss/41383/Python-solutions-(dfs%2Bstack-bfs%2Bqueue-dfs-recursively).)
