@@ -202,7 +202,8 @@
 13.[LCA in BST](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/discuss/519429/Python-O(n)-sol-by-DFS.-w-Hint-and-Explanation)
 14.[construct-binary-search-tree-from-preorder-traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal/)
 15.[LCA in BTree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/submissions/)
-16.[count-good-nodes-in-binary-tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/)
+16.[count-good-nodes-in-binary-tree](https://leetcode.com/problems/count-good-nodes-in-binary-tree/) ✴️
+17.[longest-zigzag-path-in-a-binary-tree](https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree/submissions/) ✳️ 
 
 ### Medium
 - [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/discuss/41383/Python-solutions-(dfs%2Bstack-bfs%2Bqueue-dfs-recursively).)
@@ -215,7 +216,6 @@
 - [All Paths for a Sum](https://leetcode.com/problems/path-sum-ii/)
 - Implement Trie (Prefix Tree)
 - Word Search II
-- Lowest Common Ancestor of a Binary Tree
 - [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/submissions/)
 - [Count Paths for a Sum](https://github.com/MeSabya/LeetCodeProgramsInPython/blob/master/Tree%20Problems/Path%20Sum%20III.md)
 - [find-duplicate-subtrees](https://leetcode.com/problems/find-duplicate-subtrees/discuss/387417/easy-peasy-recursive-preorder-solution)
