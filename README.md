@@ -22,6 +22,7 @@
 5. [partition-list](https://leetcode.com/problems/partition-list/discuss/29174/Python-concise-solution-with-dummy-nodes.)
 6. [Sort a list](https://leetcode.com/problems/sort-list/discuss/1428579/python-merge-sort-time-O(NlgN)-space-O(1))
 7. [reorder-list](https://leetcode.com/problems/reorder-list/submissions/)
+8. [add-two-numbers-ii as linked list](https://leetcode.com/problems/add-two-numbers-ii/submissions/)
 
 ## Array Problems 
    1. First Missing Positive
