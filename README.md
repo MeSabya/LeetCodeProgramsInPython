@@ -250,6 +250,7 @@ https://igotanoffer.com/blogs/tech/tree-interview-questions
    3. [Generate Parentheses](https://github.com/MeSabya/LeetCodeProgramsInPython/blob/master/SubSets/BalancedParentheses.md)
    4. [subsets with duplicates]()
    5. [letter-combinations-of-a-phone-number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)
+   6. [combination-sum-ii](https://leetcode.com/problems/combination-sum-ii/discuss/17020/Python-easy-to-understand-backtracking-solution)
 
 ## Bitwise XOR
 ## Top ‘K’ Elements
