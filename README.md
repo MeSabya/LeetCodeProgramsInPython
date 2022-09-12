@@ -261,6 +261,9 @@ https://igotanoffer.com/blogs/tech/tree-interview-questions
 [Explanation](https://github.com/MeSabya/LeetCodeProgramsInPython/blob/master/KadanesAlgo/Basics.md)
 1. [Kadanes Algo](https://leetcode.com/problems/maximum-subarray/discuss/1099443/PYTHON-EASY-SOLUTION-FASTER-THAN-99.56-of-Python3-online-submissions)
 
+## Generic DP
+1. [decode-ways](https://leetcode.com/problems/decode-ways/submissions/) 
+
 ## Jump Game
 1. [jump-game-ii](https://leetcode.com/problems/jump-game-ii/submissions/)
 2. [jump Game- III](https://leetcode.com/problems/jump-game-iii/discuss/1101073/Python-DFS-solution)
