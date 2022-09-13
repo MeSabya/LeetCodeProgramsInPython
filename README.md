@@ -24,6 +24,9 @@
 7. [reorder-list](https://leetcode.com/problems/reorder-list/submissions/)
 8. [add-two-numbers-ii as linked list](https://leetcode.com/problems/add-two-numbers-ii/submissions/)
 
+## Sudoku Solver
+https://leetcode.com/problems/sudoku-solver/submissions/
+
 ## Array Problems 
    1. First Missing Positive
    2. Rotate Image
