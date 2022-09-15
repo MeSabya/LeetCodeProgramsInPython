@@ -54,6 +54,7 @@ https://leetcode.com/problems/sudoku-solver/submissions/
    24. [Sort in Wave form](https://www.geeksforgeeks.org/sort-array-wave-form-2/)
    25. [gas-station](https://leetcode.com/problems/gas-station/submissions/)
    26. [maximum-difference-between-two-elements](https://www.enjoyalgorithms.com/blog/maximum-difference-between-two-elements)
+   27. [Kadanes algo](https://leetcode.com/problems/maximum-subarray/submissions/)
 
 ## String Problems
    1. [Count Pallindromes](https://github.com/MeSabya/LeetCodeProgramsInPython/blob/master/StringProblems/CountPallindromes.md)
