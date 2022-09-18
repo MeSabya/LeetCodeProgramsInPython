@@ -286,7 +286,9 @@ https://igotanoffer.com/blogs/tech/tree-interview-questions
 ## DP Problems Palindromic Subsequence
    1. [palindrome-partitioning](https://leetcode.com/problems/palindrome-partitioning/discuss/42100/Python-easy-to-understand-backtracking-solution) 
    2. 
-## Longest Common Substring
+## Longest string Problems
+1. [longest-common-subsequence](https://takeuforward.org/data-structure/longest-common-subsequence-dp-25/)
+2. [longest-common-substring](https://takeuforward.org/data-structure/longest-common-substring-dp-27/)
 
 ## Longest Increasing Subsequence
    1. [LIS](https://leetcode.com/problems/longest-increasing-subsequence/submissions/)
