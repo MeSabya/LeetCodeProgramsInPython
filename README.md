@@ -114,7 +114,9 @@ https://leetcode.com/problems/sudoku-solver/submissions/
    7. [Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/)
    8. [longest-valid-parentheses](https://leetcode.com/problems/longest-valid-parentheses/discuss/14284/8-line-Python-solution-stack-80ms)
    9. [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/discuss/372675/Three-simple-approaches)
-   10.[asteroid-collision](https://leetcode.com/problems/asteroid-collision/submissions/)
+   10. [asteroid-collision](https://leetcode.com/problems/asteroid-collision/submissions/)
+   11. [sort-a-stack-using-recursion](https://www.geeksforgeeks.org/sort-a-stack-using-recursion/)
+   12. [reverse-a-stack-using-recursion](https://www.geeksforgeeks.org/reverse-a-stack-using-recursion/)
 
 ## Solving Basic Calculator I, II, III on leetcode
    1. [Solving Basic Calculator I, II, III on leetcode](https://medium.com/@CalvinChankf/solving-basic-calculator-i-ii-iii-on-leetcode-74d926732437)
