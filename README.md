@@ -117,6 +117,7 @@ https://leetcode.com/problems/sudoku-solver/submissions/
    10. [asteroid-collision](https://leetcode.com/problems/asteroid-collision/submissions/)
    11. [sort-a-stack-using-recursion](https://www.geeksforgeeks.org/sort-a-stack-using-recursion/)
    12. [reverse-a-stack-using-recursion](https://www.geeksforgeeks.org/reverse-a-stack-using-recursion/)
+   13. [min-stack Design](https://leetcode.com/problems/min-stack/submissions/)
 
 ## Solving Basic Calculator I, II, III on leetcode
    1. [Solving Basic Calculator I, II, III on leetcode](https://medium.com/@CalvinChankf/solving-basic-calculator-i-ii-iii-on-leetcode-74d926732437)
