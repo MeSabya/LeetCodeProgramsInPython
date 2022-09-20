@@ -105,7 +105,7 @@ https://leetcode.com/problems/sudoku-solver/submissions/
    46. [MyAtoi](https://leetcode.com/submissions/detail/785532975/)
 
 ## Stack Problems
-   1. [Remove K Digits](https://leetcode.com/problems/remove-k-digits/)
+   1. [Remove K Digits](https://leetcode.com/problems/remove-k-digits/submissions/)
    2. [Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/)
    3. [Smallest Subsequence of Distinct Characters](https://leetcode.com/problems/remove-duplicate-letters/)
    4. [Decode String](https://leetcode.com/problems/decode-string/)
