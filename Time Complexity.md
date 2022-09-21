@@ -13,7 +13,8 @@ The total number of nodes in the tree is equal to the sum of the nodes on all th
 
 All trees have n - 1 edges, n being the number of nodes. The time complexity is still technically O(V + E), but that equates to O(n + (n-1)) = O(n).
 
-
+### Time Complexity of Trie:
+O(n*l) where n = number of words inserted in Trie and l = length of longest word inserted in Trie.
 
 
 
