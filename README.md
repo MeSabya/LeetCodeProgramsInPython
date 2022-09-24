@@ -321,6 +321,7 @@ https://igotanoffer.com/blogs/tech/tree-interview-questions
    15. [word-break](https://leetcode.com/problems/word-break/submissions/)
    16. [Shortest Bridge](https://leetcode.com/problems/shortest-bridge/submissions/) 🔯
    17. [keys-and-rooms](https://leetcode.com/problems/keys-and-rooms/submissions/)
+   18. [number-of-provinces](https://leetcode.com/problems/number-of-provinces/submissions/)
 
 ## Dijkistras Algorithm
    14. [Dijkistras Algorithm](https://github.com/MeSabya/LeetCodeProgramsInPython/blob/master/Graph/Dijkistras.md)
