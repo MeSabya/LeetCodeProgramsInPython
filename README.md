@@ -159,7 +159,7 @@ https://leetcode.com/problems/sudoku-solver/submissions/
    3. [Minimum Meeting Rooms]()
    4. [Maximum CPU Load (hard)](https://github.com/MeSabya/LeetCodeProgramsInPython/blob/master/MergeIntervals/Maximum%20CPU%20Load.md)
 ## Matrix Problems 
-   1. Print matrix in spiral order
+   1. [Print matrix in spiral order](https://leetcode.com/problems/spiral-matrix/discuss/394774/python-3-solution-for-spiral-matrix-one-of-the-most-easiest-you-will-never-forget/1277699)
    2. Create a spiral matrix from a given array
    3. In-place rotate matrix by 180 degrees
    4. In-place rotate matrix by 90 degrees in a clockwise direction
