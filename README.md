@@ -91,7 +91,7 @@ https://leetcode.com/problems/sudoku-solver/submissions/
    32. Find the longest common subsequence between two strings.
    33. Program to generate all possible valid IP addresses from given  string.
    34. Write a program tofind the smallest window that contains all characters of string itself.
-   35. [Rearrange characters in a string such that no two adjacent are same](https://leetcode.com/problems/reorganize-string/)
+   35. [Rearrange characters in a string such that no two adjacent are same](https://github.com/MeSabya/LeetCodeProgramsInPython/blob/master/HeapPattern/5.Rearrange%20String.md)
    36. Minimum characters to be added at front to make string palindrome
    37. Given a sequence of words, print all anagrams together
    38. Find the smallest window in a string containing all characters of another string
