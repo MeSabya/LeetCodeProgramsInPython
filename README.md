@@ -260,6 +260,8 @@ https://igotanoffer.com/blogs/tech/tree-interview-questions
    4. [subsets with duplicates]()
    5. [letter-combinations-of-a-phone-number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)
    6. [combination-sum-ii](https://leetcode.com/problems/combination-sum-ii/discuss/17020/Python-easy-to-understand-backtracking-solution)
+   7. [Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/discuss/2381450/Python-or-recursion-with-memoization-or-detailed-explanation)
+   8. 
 
 ## Bitwise XOR
 ## Top ‘K’ Elements
