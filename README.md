@@ -9,6 +9,15 @@
    
    [Behavioral Based Job Interview Questions2](https://www.thebalancecareers.com/behavioral-job-interview-questions-2059620)
 
+## Design Questions 
+   1. [DesignCircularDeque](https://github.com/MeSabya/LeetCodeProgramsInPython/blob/master/DesignQuestions/DesignCircularDeque.md)
+   2. [HashMap](https://github.com/MeSabya/LeetCodeProgramsInPython/blob/master/DesignQuestions/HashMap.md)
+   3. [LoggerRateLimiter](https://github.com/MeSabya/LeetCodeProgramsInPython/blob/master/DesignQuestions/LoggerRateLimiter.md)
+   4. [SeatReservationManager](https://github.com/MeSabya/LeetCodeProgramsInPython/blob/master/DesignQuestions/SeatReservationManager.py)
+   5. [SnakeGameDesign](https://github.com/MeSabya/LeetCodeProgramsInPython/blob/master/DesignQuestions/SnakeGameDesign.md)
+   6. [Time Based Key-Value Store](https://github.com/MeSabya/LeetCodeProgramsInPython/blob/master/DesignQuestions/Time%20Based%20Key-Value%20Store.md)
+   7. [Tweeter](https://github.com/MeSabya/LeetCodeProgramsInPython/blob/master/DesignQuestions/Tweeter.md)
+   
 ## Modified Binary Search
    1. [List of Binary search Problems](https://github.com/MeSabya/LeetCodeProgramsInPython/tree/master/BinarySerach#list-of-binary-search-programs)
    2. [Find Right Interval](https://leetcode.com/problems/find-right-interval/) ⭐
