@@ -308,6 +308,7 @@ https://igotanoffer.com/blogs/tech/tree-interview-questions
 
 ## Longest Increasing Subsequence
    1. [LIS](https://leetcode.com/problems/longest-increasing-subsequence/submissions/)
+      [LIS using Bsearch](https://leetcode.com/problems/longest-increasing-subsequence/discuss/1484417/Python-O(NlogN))
    2. [russian-doll-envelopes](https://leetcode.com/problems/russian-doll-envelopes/submissions/)
 
 ## Stock buy and sell problems 
