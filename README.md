@@ -171,7 +171,7 @@ https://leetcode.com/problems/sudoku-solver/submissions/
    1. [Print matrix in spiral order](https://leetcode.com/problems/spiral-matrix/discuss/394774/python-3-solution-for-spiral-matrix-one-of-the-most-easiest-you-will-never-forget/1277699)
    2. Create a spiral matrix from a given array
    3. In-place rotate matrix by 180 degrees
-   4. In-place rotate matrix by 90 degrees in a clockwise direction
+   4. [In-place rotate matrix by 90 degrees in a clockwise direction](https://leetcode.com/problems/rotate-image/discuss/842087/Easy-Python-from-scratch-(2-Steps))
    5. Find the largest square submatrix which is surrounded by all 1’s
    6. Find all common elements present in each row of a matrix
    7. Find duplicate rows in a binary matrix
