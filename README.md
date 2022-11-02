@@ -230,7 +230,7 @@ https://leetcode.com/problems/sudoku-solver/submissions/
 - [Path with Maximum Sum (hard)](https://leetcode.com/problems/binary-tree-maximum-path-sum/)
 - [Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/submissions/)
 - Same Tree
-- Construct Binary Tree from Preorder and Inorder Traversal
+- [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/discuss/34579/Python-short-recursive-solution.)
 - Path Sum
 - [All Paths for a Sum](https://leetcode.com/problems/path-sum-ii/)
 - Implement Trie (Prefix Tree)
