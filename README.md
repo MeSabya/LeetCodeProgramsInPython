@@ -84,7 +84,7 @@ https://leetcode.com/problems/sudoku-solver/submissions/
    16. EDIT Distance [Very Imp]
    17. Find next greater number with same set of digits. [Very Very IMP]
    18. Balanced Parenthesis problem.[Imp]
-   19. Word break Problem[ Very Imp]
+   19. [Word break Problem](https://leetcode.com/problems/word-break/)
    20. Rabin Karp Algo
    21. KMP Algo
    22. Convert a Sentence into its equivalent mobile numeric keypad sequence.
