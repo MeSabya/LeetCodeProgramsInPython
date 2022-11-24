@@ -357,3 +357,7 @@ https://igotanoffer.com/blogs/tech/tree-interview-questions
 2. [map-sum-pairs](https://leetcode.com/problems/map-sum-pairs/submissions/)
 3. [count distinct substring](https://github.com/MeSabya/LeetCodeProgramsInPython/blob/master/Trie/count_distinct_substr.md)
 4. [longest-common-prefix](https://leetcode.com/problems/longest-common-prefix/submissions/)
+
+## Generic DFS
+1. path-with-maximum-gold
+2. Robot Bounded In Circle 
