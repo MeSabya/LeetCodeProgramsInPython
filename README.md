@@ -121,7 +121,7 @@ https://leetcode.com/problems/sudoku-solver/submissions/
    5. [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/discuss/825934/Python-3-greater-O(n)-time-using-2-stacks)
    6. [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)
    7. [Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/)
-   8. [longest-valid-parentheses](https://leetcode.com/problems/longest-valid-parentheses/discuss/14284/8-line-Python-solution-stack-80ms)
+   8. [longest-valid-parentheses](https://leetcode.com/problems/longest-valid-parentheses/solutions/1139974/python-c-go-o-n-by-stack-w-comment/)
    9. [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/discuss/372675/Three-simple-approaches)
    10. [asteroid-collision](https://leetcode.com/problems/asteroid-collision/submissions/)
    11. [sort-a-stack-using-recursion](https://www.geeksforgeeks.org/sort-a-stack-using-recursion/)
