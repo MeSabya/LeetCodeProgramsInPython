@@ -228,7 +228,7 @@ https://leetcode.com/problems/sudoku-solver/submissions/
 ### Medium
 - [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/discuss/41383/Python-solutions-(dfs%2Bstack-bfs%2Bqueue-dfs-recursively).)
 - [Sum of Path Numbers (medium)]()
-- [Path with Maximum Sum (hard)](https://leetcode.com/problems/binary-tree-maximum-path-sum/)
+- [Path with Maximum Sum (hard)](https://github.com/MeSabya/LeetCodeProgramsInPython/blob/master/Tree%20Problems/Path%20with%20Maximum%20Sum.md)
 - [Maximum Binary Tree](https://leetcode.com/problems/maximum-binary-tree/submissions/)
 - Same Tree
 - [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/discuss/34579/Python-short-recursive-solution.)
