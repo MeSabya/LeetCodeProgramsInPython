@@ -21,6 +21,23 @@ Meetings: [[1,4], [2,3], [3,6]]
 Output:2
 Explanation: Since [1,4] overlaps with the other two meetings [2,3] and [3,6], we need two rooms to 
 hold all the meetings.
+
+Meetings: [[4,5], [2,3], [2,4], [3,5]]
+Output: 2
+Explanation: We will need one room for [2,3] and [3,5], and another room for [2,4] and [4,5].
+
+Let’s take the above-mentioned example (4) and try to follow our Merge Intervals approach:
+
+Meetings: [[4,5], [2,3], [2,4], [3,5]]
+
+Step 1: Sorting these meetings on their start time will give us: [[2,3], [2,4], [3,5], [4,5]]
+
+Step 2: Merging overlapping meetings:
+
+[2,3] overlaps with [2,4], so after merging we’ll have => [[2,4], [3,5], [4,5]]
+[2,4] overlaps with [3,5], so after merging we’ll have => [[2,5], [4,5]]
+[2,5] overlaps [4,5], so after merging we’ll have => [2,5]
+Since all the given meetings have merged into one big meeting ([2,5]), does this mean that they all are overlapping and we need a minimum of four rooms to hold these meetings? You might have already guessed that the answer is NO! As we can clearly see, some meetings are mutually exclusive. For example, [2,3] and [3,5] do not overlap and can happen in one room. So, to correctly solve our problem, we need to keep track of the mutual exclusiveness of the overlapping meetings.
 ```
 
 ## Solution
