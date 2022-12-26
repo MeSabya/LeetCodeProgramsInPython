@@ -355,7 +355,7 @@ https://igotanoffer.com/blogs/tech/tree-interview-questions
 
 ## Trie
 1. [implement-trie-prefix-tree](https://leetcode.com/problems/implement-trie-prefix-tree/discuss/943448/Python-Simple-TrieNode-and-Trie-Implementation)
-2. [map-sum-pairs](https://leetcode.com/problems/map-sum-pairs/submissions/)
+2. [map-sum-pairs](https://leetcode.com/problems/map-sum-pairs/solutions/766687/python-modifying-the-standard-trie-concept/)
 3. [count distinct substring](https://github.com/MeSabya/LeetCodeProgramsInPython/blob/master/Trie/count_distinct_substr.md)
 4. [longest-common-prefix](https://leetcode.com/problems/longest-common-prefix/submissions/)
 
