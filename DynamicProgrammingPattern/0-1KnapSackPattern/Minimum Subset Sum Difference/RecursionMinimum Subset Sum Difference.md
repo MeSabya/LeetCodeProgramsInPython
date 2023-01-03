@@ -20,6 +20,10 @@ Output: 92
 Explanation: We can partition the given set into two subsets where the minimum absolute difference 
 between the sum of numbers is '92'. Here are the two subsets: {1, 3, 4} & {100}.
 
+## Question Analysis
+1. Given Set of +ve numbers , solution does not handle negative cases.
+2. We have to divide into 2 subsets , but not in equal length.
+
 ## Basic Solution#
 This problem follows the 0/1 Knapsack pattern and can be converted into a Subset Sum problem.
 
@@ -111,5 +115,43 @@ Time Complexity : O(N * S)
 N = length of array
 S = Sum of elements
 
+
+## How to handle -ve cases in the above solution
+```
+class Solution:
+    def minimumDifference(self, nums: List[int]) -> int:
+        sum1 = sum(nums) 
+        min_ele = float('inf')
+
+        '''
+        What you can do for -ve numbers is find the minimum number in array 
+        then add its absolute (if it is negative) to whole array it will make all 
+        elements positive but our absolute difference will not change.
+        '''
+        if sum1 <= 0:
+            for i in nums:
+                if i < min_ele:
+                    min_ele = min(i, min_ele)
+            
+            for i in range(len(nums)):
+                nums[i] = nums[i] + abs(min_ele)
+
+        sum1 = sum(nums)
+        self.dp = [[-1 for _ in range(sum1+1)] for _ in range(len(nums))]  
+        #print("input nums is", nums)
+        
+        def minimumDifferenceUtil(sum1, sum2, curr_idx):
+            if curr_idx == len(nums):
+                return abs(sum1-sum2)    
+            
+            if self.dp[curr_idx][sum1] == -1:
+                diff1 = minimumDifferenceUtil(sum1+nums[curr_idx], sum2, curr_idx+1)
+                diff2 = minimumDifferenceUtil(sum1, sum2+nums[curr_idx], curr_idx+1)
+
+                self.dp[curr_idx][sum1] = min(diff1, diff2)
+            
+            return self.dp[curr_idx][sum1]
+        return  minimumDifferenceUtil(0, 0, 0)
+```        
 
 
