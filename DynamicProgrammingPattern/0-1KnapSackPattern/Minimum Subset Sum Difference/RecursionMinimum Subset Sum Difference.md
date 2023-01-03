@@ -1,6 +1,6 @@
 ## Problem Statement#
 
-Given a set of positive numbers, partition the set into two subsets with a minimum difference between their subset sums.
+Given a set of **positive numbers**, partition the set into two subsets with a minimum difference between their subset sums.
 
 ### Example 1:#
 Input: {1, 2, 3, 9}
