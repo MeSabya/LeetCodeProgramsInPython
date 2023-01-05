@@ -35,7 +35,7 @@ Finally, we have to take the maximum of the above two values:
     dp[index][c] = max (dp[index-1][c], profit[index] + dp[index][c-weight[index]])
     
 ## List of Unbounded KS Problems
-1. ❗ [Minimum Coin Change]()
+1. ❗ [Minimum Coin Change](https://github.com/MeSabya/LeetCodeProgramsInPython/blob/master/DynamicProgrammingPattern/UnboundKnapSackPattern/UnboundedKnapSack/Minimum%20Coin%20Change.md)
 2. ❗[Rod Cutting]()
-3. [Number of ways Coin Change]()
+3. [Number of ways Coin Change](https://leetcode.com/problems/coin-change-ii/submissions/449755376/)
 4. 
