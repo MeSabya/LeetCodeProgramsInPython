@@ -9,6 +9,10 @@
    
    [Behavioral Based Job Interview Questions2](https://www.thebalancecareers.com/behavioral-job-interview-questions-2059620)
 
+## Greedy Problems
+   1. [Boats to Save People](https://leetcode.com/problems/boats-to-save-people/submissions/)
+   2. [Gas Station](https://leetcode.com/problems/gas-station/submissions/874140044/)
+
 ## Design Questions 
    1. [DesignCircularDeque](https://github.com/MeSabya/LeetCodeProgramsInPython/blob/master/DesignQuestions/DesignCircularDeque.md)
    2. [HashMap](https://github.com/MeSabya/LeetCodeProgramsInPython/blob/master/DesignQuestions/HashMap.md)
