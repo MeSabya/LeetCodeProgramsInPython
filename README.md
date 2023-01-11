@@ -282,6 +282,7 @@ https://igotanoffer.com/blogs/tech/tree-interview-questions
 ## Top ‘K’ Elements
 ## K-way Merge
 1. [kth-smallest-element-in-a-sorted-matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/submissions/)
+2. [smallest-range-covering-elements-from-k-lists](https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/submissions/875859893/)
 
 ## Kadanes Algo
 [Explanation](https://github.com/MeSabya/LeetCodeProgramsInPython/blob/master/KadanesAlgo/Basics.md)
