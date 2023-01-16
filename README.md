@@ -152,6 +152,7 @@ https://leetcode.com/problems/sudoku-solver/submissions/
    6. [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)
    7. [Longest Subarray with Ones after Replacement](https://github.com/MeSabya/LeetCodeProgramsInPython/tree/master/SlidingWindowPattern/Longest%20Subarray%20with%20Ones%20after%20Replacement#longest-subarray-with-ones-after-replacement)
    8. [sliding-window-maximum](https://leetcode.com/problems/sliding-window-maximum/discuss/237611/Simplest-O(n)-Python-Solution-with-Explanation)
+   9. [grumpy-bookstore-owner](https://leetcode.com/problems/grumpy-bookstore-owner/solutions/299388/python-7-liner-sliding-window-o-n-rolling-sum/?page=3&languageTags=python3)
 
 ## Two Pointers
    1. [Squaring a Sorted Array]()
