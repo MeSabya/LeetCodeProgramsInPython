@@ -157,7 +157,7 @@ https://leetcode.com/problems/sudoku-solver/submissions/
 ## Two Pointers
    1. [Squaring a Sorted Array]()
    2. [Dutch National Flag Problem]()
-   3. [Minimum Window Sort]()
+   3. [Minimum Window Sort](https://github.com/MeSabya/LeetCodeProgramsInPython/blob/master/TwoPointerPattern/Shortest%20Unsorted%20Continuous%20Subarray.md)
    4. [ContainerWithMostWater](https://github.com/MeSabya/LeetCodeProgramsInPython/blob/master/TwoPointerPattern/ContainerWithMostWater.md)
    5. [TrappingRainWater](https://github.com/MeSabya/LeetCodeProgramsInPython/blob/master/TwoPointerPattern/TrappingRainWater.md)
    6. [SubArraysProductLessThanTarget](https://github.com/MeSabya/LeetCodeProgramsInPython/blob/master/TwoPointerPattern/SubArraysProductLessThanTarget.py)
