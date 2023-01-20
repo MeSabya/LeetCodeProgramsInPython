@@ -375,3 +375,6 @@ https://igotanoffer.com/blogs/tech/tree-interview-questions
 
 ## Generic BFS
 1. [longest-string-chain](https://leetcode.com/problems/longest-string-chain/submissions/881615288/)
+
+## BackTracking
+1. [Partition to K Equal Sum Subsets](https://github.com/MeSabya/LeetCodeProgramsInPython/blob/master/BackTracking/1.%20PartitionKSubsets.md)
