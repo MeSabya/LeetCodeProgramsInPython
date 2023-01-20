@@ -372,3 +372,5 @@ https://igotanoffer.com/blogs/tech/tree-interview-questions
 3. [surrounded-regions](https://leetcode.com/problems/surrounded-regions/)
 4. [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/submissions/879352314/)
 
+## Generic BFS
+1. [longest-string-chain](https://leetcode.com/problems/longest-string-chain/submissions/881615288/)
