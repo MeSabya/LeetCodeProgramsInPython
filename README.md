@@ -132,6 +132,7 @@ https://leetcode.com/problems/sudoku-solver/submissions/
    12. [reverse-a-stack-using-recursion](https://www.geeksforgeeks.org/reverse-a-stack-using-recursion/)
    13. [min-stack Design](https://leetcode.com/problems/min-stack/submissions/)
    14. [monotonic-stack](https://leetcode.com/problems/online-stock-span/discuss/640396/Python-sol-by-monotonic-stack-w-Graph)
+   15. [score-of-parentheses](https://leetcode.com/problems/score-of-parentheses/solutions/2299821/python-faster-than-83-easy-understanding-explaining-with-comments/?languageTags=python&topicTags=stack)
 
 ## Solving Basic Calculator I, II, III on leetcode
    1. [Solving Basic Calculator I, II, III on leetcode](https://medium.com/@CalvinChankf/solving-basic-calculator-i-ii-iii-on-leetcode-74d926732437)
