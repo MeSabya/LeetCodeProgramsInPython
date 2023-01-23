@@ -69,6 +69,7 @@ https://leetcode.com/problems/sudoku-solver/submissions/
    26. [maximum-difference-between-two-elements](https://www.enjoyalgorithms.com/blog/maximum-difference-between-two-elements)
    27. [Kadanes algo](https://leetcode.com/problems/maximum-subarray/submissions/)
    28. [integer-to-roman](https://leetcode.com/problems/integer-to-roman/solutions/2724200/python-s-simple-and-easy-to-understand-solution-99-faster/?languageTags=python)
+   29.[longest-substring-with-at-least-k-repeating-characters](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/solutions/949688/python-short-simple-recursive-solution/?languageTags=python3&topicTags=ordered-map)
 
 ## String Problems
    1. [Count Pallindromes](https://github.com/MeSabya/LeetCodeProgramsInPython/blob/master/StringProblems/CountPallindromes.md)
