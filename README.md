@@ -36,6 +36,7 @@
 6. [Sort a list](https://leetcode.com/problems/sort-list/discuss/691834/Python-MergeSort-Solution-O(1)-space)
 7. [reorder-list](https://leetcode.com/problems/reorder-list/submissions/)
 8. [add-two-numbers-ii as linked list](https://leetcode.com/problems/add-two-numbers-ii/submissions/)
+9. [remove-duplicates-from-sorted-list-ii](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/solutions/2419088/very-easy-100-fully-explained-java-c-python-js-c-python3/?languageTags=python)
 
 ## Sudoku Solver
 https://leetcode.com/problems/sudoku-solver/submissions/
