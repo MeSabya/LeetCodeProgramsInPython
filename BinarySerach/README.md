@@ -12,6 +12,7 @@
 10. [capacity-to-ship-packages-within-d-days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/)
 11. [key-value-snapshot](https://github.com/MeSabya/LeetCodeProgramsInPython/blob/master/BinarySerach/key-value-snapshot.md)
 12. [find-the-maximum-element-in-an-array-which-is-first-increasing-and-then-decreasing](https://www.geeksforgeeks.org/find-the-maximum-element-in-an-array-which-is-first-increasing-and-then-decreasing/)
+13. [minimum-number-of-days-to-make-m-bouquets](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/submissions/885589085/)
 
 # Modified Binary Search Problems List  
 1. ⚓[find-minimum-in-rotated-sorted-array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/submissions/)
