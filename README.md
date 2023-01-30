@@ -38,8 +38,9 @@
 8. [add-two-numbers-ii as linked list](https://leetcode.com/problems/add-two-numbers-ii/submissions/)
 9. [remove-duplicates-from-sorted-list-ii](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/solutions/2419088/very-easy-100-fully-explained-java-c-python-js-c-python3/?languageTags=python)
 
-## Sudoku Solver
-https://leetcode.com/problems/sudoku-solver/submissions/
+## Backtracking
+1. [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/submissions/)
+2. [restore-ip-addresses](https://leetcode.com/problems/restore-ip-addresses/solutions/3079377/clean-codes-full-explanation-recursion-c-java-python3/?languageTags=python3)
 
 ## Array Problems 
    1. First Missing Positive
