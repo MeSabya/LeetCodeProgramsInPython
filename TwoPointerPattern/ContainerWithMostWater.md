@@ -69,6 +69,9 @@ So overall, A’< A. When A’<A, then all the area between the pairs (i, j-2), 
 
 >*So here is the simple solution idea — we are taking two pointers, one at the beginning and one at the end of the input height[] array, and maintain a variable maxArea to store the maximum area obtained. At every step, we find out the area formed between the values at the two pointers, update the maxArea and move the pointer pointing to the shorter line towards the other end.
 
+**So, now you ask which pointer we suppose to move. It's preety simple. We gonna move the smaller height pointer. Why?
+Because, we are trying to find very max. container.If we have smaller height on left or right we don't care about it. We always want a higher height line on our left & right.**
+
 ```python
 def maxArea(self, height: List[int]) -> int:
     left, right = 0, len(height)-1
