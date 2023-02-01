@@ -371,6 +371,7 @@ https://igotanoffer.com/blogs/tech/tree-interview-questions
 2. [map-sum-pairs](https://leetcode.com/problems/map-sum-pairs/solutions/766687/python-modifying-the-standard-trie-concept/)
 3. [count distinct substring](https://github.com/MeSabya/LeetCodeProgramsInPython/blob/master/Trie/count_distinct_substr.md)
 4. [longest-common-prefix](https://leetcode.com/problems/longest-common-prefix/submissions/)
+5. [replace words in C++](https://leetcode.com/problems/replace-words/submissions/889144940/)
 
 ## Generic DFS
 1. path-with-maximum-gold
