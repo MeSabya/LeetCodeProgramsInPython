@@ -14,6 +14,7 @@
 12. [find-the-maximum-element-in-an-array-which-is-first-increasing-and-then-decreasing](https://www.geeksforgeeks.org/find-the-maximum-element-in-an-array-which-is-first-increasing-and-then-decreasing/)
 13. [minimum-number-of-days-to-make-m-bouquets](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/submissions/885589085/)
 14. [shortest-distance-to-a-character](https://leetcode.com/problems/shortest-distance-to-a-character/submissions/890698136/)
+15. [single-element-in-a-sorted-array](https://leetcode.com/problems/single-element-in-a-sorted-array/description/)
 
 # Modified Binary Search Problems List  
 1. ⚓[find-minimum-in-rotated-sorted-array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/submissions/)
