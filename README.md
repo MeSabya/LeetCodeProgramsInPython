@@ -77,6 +77,7 @@
    29.[longest-substring-with-at-least-k-repeating-characters](https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters/solutions/949688/python-short-simple-recursive-solution/?languageTags=python3&topicTags=ordered-map)
    30. [partition-labels](https://leetcode.com/problems/partition-labels/description/)
    31. [can-place-flowers](https://leetcode.com/problems/can-place-flowers/description/)
+   32. [Fisher–Yates shuffle Algorithm](https://www.geeksforgeeks.org/shuffle-a-given-array-using-fisher-yates-shuffle-algorithm/)
 
 ## String Problems
    1. [Count Pallindromes](https://github.com/MeSabya/LeetCodeProgramsInPython/blob/master/StringProblems/CountPallindromes.md)
