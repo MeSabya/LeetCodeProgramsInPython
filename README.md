@@ -288,7 +288,7 @@ https://igotanoffer.com/blogs/tech/tree-interview-questions
    4. [subsets with duplicates]()
    5. [letter-combinations-of-a-phone-number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)
    6. [combination-sum-ii](https://leetcode.com/problems/combination-sum-ii/submissions/881698873/)
-   7. [Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/submissions/)
+   7. [Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/solutions/2381170/3-ways-easy-to-understand-simple-code-recursion-recursion-memoization-tabulation/?topicTags=dynamic-programming%2Cmemoization%2Crecursion)
    8. [combination-sum-iii](https://leetcode.com/problems/combination-sum-iii/solutions/60805/easy-to-understand-python-solution-backtracking/?languageTags=python)
    9. [combination-sum](https://leetcode.com/problems/combination-sum/)
 
