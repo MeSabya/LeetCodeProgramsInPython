@@ -306,6 +306,7 @@ https://igotanoffer.com/blogs/tech/tree-interview-questions
 
 ## Generic DP
 1. [decode-ways](https://leetcode.com/problems/decode-ways/submissions/) 
+2. [maximum-length-of-repeated-subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray/submissions/912641461/)
 
 ## Jump Game
 1. [jump-game-ii](https://leetcode.com/problems/jump-game-ii/submissions/)
