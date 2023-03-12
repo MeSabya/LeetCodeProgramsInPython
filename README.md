@@ -40,6 +40,7 @@
 7. [reorder-list](https://leetcode.com/problems/reorder-list/submissions/)
 8. [add-two-numbers-ii as linked list](https://leetcode.com/problems/add-two-numbers-ii/submissions/)
 9. [remove-duplicates-from-sorted-list-ii](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/solutions/2419088/very-easy-100-fully-explained-java-c-python-js-c-python3/?languageTags=python)
+10. [convert-binary-number-in-a-linked-list-to-integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/submissions/913905902/)
 
 ## Backtracking
 1. [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/submissions/)
