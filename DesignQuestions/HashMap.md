@@ -157,6 +157,7 @@ def hash(self, key):
 	return hashsum
 ```
 
+![Screenshot from 2023-04-09 12-22-20](https://user-images.githubusercontent.com/33947539/230758904-c58cb4d7-110d-4109-b553-31cdc66125ec.png)
 
 
 
