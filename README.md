@@ -173,7 +173,7 @@
    2. [Dutch National Flag Problem]()
    3. [Minimum Window Sort](https://github.com/MeSabya/LeetCodeProgramsInPython/blob/master/TwoPointerPattern/Shortest%20Unsorted%20Continuous%20Subarray.md)
    4. [ContainerWithMostWater](https://github.com/MeSabya/LeetCodeProgramsInPython/blob/master/TwoPointerPattern/ContainerWithMostWater.md)
-   5. [TrappingRainWater](https://github.com/MeSabya/LeetCodeProgramsInPython/blob/master/TwoPointerPattern/TrappingRainWater.md)
+   5. [TrappingRainWater](https://leetcode.com/problems/trapping-rain-water/solutions/3315604/simple-c-solution-easy-to-understand/?languageTags=cpp&topicTags=two-pointers)
    6. [SubArraysProductLessThanTarget](https://github.com/MeSabya/LeetCodeProgramsInPython/blob/master/TwoPointerPattern/SubArraysProductLessThanTarget.py)
    7. [Sort Colours](https://github.com/MeSabya/LeetCodeProgramsInPython/blob/master/TwoPointerPattern/Sort%20Colors.md)
    8. [count-number-of-teams](https://leetcode.com/problems/count-number-of-teams/solutions/555441/java-c-100-o-n-2-easy-to-understand-with-explanation/)
