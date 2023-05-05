@@ -334,6 +334,7 @@ https://igotanoffer.com/blogs/tech/tree-interview-questions
    1. [LIS](https://leetcode.com/problems/longest-increasing-subsequence/submissions/)
       [LIS using Bsearch](https://leetcode.com/problems/longest-increasing-subsequence/discuss/1484417/Python-O(NlogN))
    2. [russian-doll-envelopes](https://leetcode.com/problems/russian-doll-envelopes/submissions/)
+   3. [Minimum Deletions to Make a Sequence Sorted]()
 
 ## Stock buy and sell problems 
 1. [best-time-to-buy-and-sell-stock-ii](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/discuss/1498050/Python-or-very-simple-or-short-readable-code-or-picture)
