@@ -177,6 +177,7 @@
    6. [SubArraysProductLessThanTarget](https://github.com/MeSabya/LeetCodeProgramsInPython/blob/master/TwoPointerPattern/SubArraysProductLessThanTarget.py)
    7. [Sort Colours](https://github.com/MeSabya/LeetCodeProgramsInPython/blob/master/TwoPointerPattern/Sort%20Colors.md)
    8. [count-number-of-teams](https://leetcode.com/problems/count-number-of-teams/solutions/555441/java-c-100-o-n-2-easy-to-understand-with-explanation/)
+   9. [sort-array-by-parity](https://leetcode.com/problems/sort-array-by-parity/submissions/947906291/)
 
 ## Fast & Slow Pointers
    1. [Middle of the LinkedList]()
