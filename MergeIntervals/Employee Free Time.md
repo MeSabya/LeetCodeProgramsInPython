@@ -291,3 +291,43 @@ int main(int argc, char *argv[]) {
   }
 }
 ```
+
+## Way4:
+
+```python
+def employeeFreeTime(schedules):
+    # Step 1: Flatten all the schedules into one list of intervals
+    all_intervals = [interval for schedule in schedules for interval in schedule]
+    
+    # Step 2: Sort the intervals by their start time (and end time to handle ties)
+    all_intervals.sort(key=lambda x: (x[0], x[1]))
+    
+    # Step 3: Merge intervals and find gaps
+    merged = []
+    for interval in all_intervals:
+        # If merged list is empty or the current interval doesn't overlap with the last merged interval, add it to merged
+        if not merged or merged[-1][1] < interval[0]:
+            merged.append(interval)
+        else:
+            # If there is an overlap, merge the intervals by extending the end time of the last interval in merged
+            merged[-1][1] = max(merged[-1][1], interval[1])
+    
+    # Step 4: Find the gaps (free time) between consecutive merged intervals
+    free_time = []
+    for i in range(1, len(merged)):
+        start_prev = merged[i-1][1]
+        start_next = merged[i][0]
+        if start_prev < start_next:
+            free_time.append([start_prev, start_next])
+    
+    return free_time
+
+# Example usage:
+schedules = [
+    [[1, 3], [6, 7]],  # Employee 1
+    [[2, 4]],          # Employee 2
+    [[2, 5], [9, 12]]  # Employee 3
+]
+
+print(employeeFreeTime(schedules))  # Output: [[5, 6], [7, 9]]
+```
