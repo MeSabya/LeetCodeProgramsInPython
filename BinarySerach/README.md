@@ -1,3 +1,53 @@
+# Some built-in functions for bsearch in python and golang
+
+### bisect_left and bisect_right
+- bisect_left: When you want to find the first occurrence of an element or need to insert a duplicate element before its existing occurrences.
+- bisect_right: When you want to find the position after the last occurrence of an element or insert an element after all existing duplicates.
+
+### Equivalent in Go
+```go
+package main
+
+import (
+	"fmt"
+	"sort"
+)
+
+func bisectLeft(arr []int, x int) int {
+	return sort.Search(len(arr), func(i int) bool { return arr[i] >= x })
+}
+
+func main() {
+	arr := []int{1, 2, 4, 4, 4, 5, 6}
+	x := 4
+	index := bisectLeft(arr, x)
+	fmt.Println("Bisect Left Index:", index)  // Output: 2
+}
+```
+
+```go
+package main
+
+import (
+	"fmt"
+	"sort"
+)
+
+func bisectRight(arr []int, x int) int {
+	return sort.Search(len(arr), func(i int) bool { return arr[i] > x })
+}
+
+func main() {
+	arr := []int{1, 2, 4, 4, 4, 5, 6}
+	x := 4
+	index := bisectRight(arr, x)
+	fmt.Println("Bisect Right Index:", index)  // Output: 5
+}
+```
+- bisectLeft in Go: Finds the position to insert an element before any existing occurrences.
+- bisectRight in Go: Finds the position to insert an element after the last occurrence of duplicates.
+
+
 # Binary Search programs List 
 1. [NumberRange](https://github.com/MeSabya/LeetCodeProgramsInPython/tree/master/BinarySerach/NumberRange)
    - https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/ 
