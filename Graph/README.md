@@ -6,3 +6,27 @@ Depth First Search is commonly used when you need to search the entire tree. It'
 
 >Generally, we’ll use BFS to find the shortest path or the least number of steps to reach out goal node given a start node. We’ll use DFS to find all possibilities from A to B. If you want to check whether 2 nodes are connected, you can use either.
 
+# why the solution defined for undirected graph will not work for directed graph and vice versa 
+
+![image](https://github.com/user-attachments/assets/9a43b434-0810-454a-b1ef-1bb11f501ce6)
+
+## Illustrative Examples
+
+Example for Failure in Undirected Graph with Directed Graph Solution
+Graph:
+
+```lua
+Copy code
+1 --- 2 --- 3
+```
+The directed graph solution would falsely detect a cycle because the recursion stack marks 1 as visited and part of the current path when revisiting it through 3.
+Example for Failure in Directed Graph with Undirected Graph Solution
+
+Graph:
+
+```css
+Copy code
+A → B → C → A
+```
+
+The undirected graph solution would fail to detect this cycle because it does not check the recursion stack and treats edges as bidirectional. It would not recognize that revisiting A in the same path forms a cycle.
